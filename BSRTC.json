@@ -1,0 +1,2802 @@
+{
+  "Patna (Bihar) to Bettiah": {
+    "Private": {
+      "Bus_Name": [
+        "Jai Mata Di Tour and Travels",
+        "V.I.P Travels",
+        "Jai Hanuman Travels",
+        "Jai Mata Di Tour and Travels"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "20:28",
+        "21:40",
+        "22:20",
+        "22:40"
+      ],
+      "Reaching_Time": [
+        "02:00",
+        "03:40",
+        "05:00",
+        "04:00"
+      ],
+      "Duration": [
+        "05h 32m",
+        "06h 00m",
+        "06h 40m",
+        "05h 20m"
+      ],
+      "Star_Rating": [
+        3.4,
+        3.0,
+        3.7,
+        2.3
+      ],
+      "Seat_availability": [
+        6,
+        61,
+        54,
+        28
+      ],
+      "Price": [
+        "350",
+        "550"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Gopalganj (Bihar) to Delhi": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 137431",
+        "ROYAL TRAVELS AND CARGO",
+        "Travel Point World LLP",
+        "Shree Balajee Travels And Cargo",
+        "New Travel India",
+        "New Travel India",
+        "New Travel India",
+        "New Travel India",
+        "New Travel India",
+        "New Travel India"
+      ],
+      "Bus_Type": [
+        "Volvo AC Seater 2+2",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "19:10",
+        "17:30",
+        "20:20",
+        "20:00",
+        "17:30",
+        "18:15",
+        "18:15",
+        "17:35",
+        "17:40",
+        "18:05"
+      ],
+      "Reaching_Time": [
+        "11:59",
+        "08:30",
+        "10:50",
+        "14:30",
+        "09:00",
+        "08:00",
+        "08:10",
+        "08:30",
+        "08:30",
+        "08:00"
+      ],
+      "Duration": [
+        "16h 49m",
+        "15h 00m",
+        "14h 30m",
+        "18h 30m",
+        "15h 30m",
+        "13h 45m",
+        "13h 55m",
+        "14h 55m",
+        "14h 50m",
+        "13h 55m"
+      ],
+      "Star_Rating": [
+        3.4,
+        2.2,
+        1.9,
+        1.2,
+        1.2,
+        1.2,
+        1.2,
+        1.2,
+        1.2,
+        1.2
+      ],
+      "Seat_availability": [
+        23,
+        6,
+        38,
+        60,
+        16,
+        14,
+        30,
+        14,
+        14,
+        14
+      ],
+      "Price": [
+        "1200",
+        "696",
+        "9",
+        "1499",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Motihari": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 150571",
+        "Jai Hanuman Travels",
+        "Jai Hanuman Travels",
+        "Jai Mata Di Tour and Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "21:20",
+        "22:00",
+        "22:20",
+        "20:28"
+      ],
+      "Reaching_Time": [
+        "01:00",
+        "04:00",
+        "03:15",
+        "23:30"
+      ],
+      "Duration": [
+        "03h 40m",
+        "06h 00m",
+        "04h 55m",
+        "03h 02m"
+      ],
+      "Star_Rating": [
+        2.6,
+        4.5,
+        3.6,
+        1.2
+      ],
+      "Seat_availability": [
+        31,
+        37,
+        54
+      ],
+      "Price": [
+        "230",
+        "550",
+        "550"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Delhi to Motihari": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Bettiah to Patna (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Jai Mata Di Tour and Travels"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "22:00"
+      ],
+      "Reaching_Time": [
+        "05:00"
+      ],
+      "Duration": [
+        "07h 00m"
+      ],
+      "Star_Rating": [
+        2.1
+      ],
+      "Seat_availability": [
+        8
+      ],
+      "Price": [],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Motihari to Delhi": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 137431",
+        "Travel Point World LLP",
+        "Baba Khatushyam Travels Pvt Ltd"
+      ],
+      "Bus_Type": [
+        "Volvo AC Seater 2+2",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (3+1)"
+      ],
+      "Departing_Time": [
+        "17:20",
+        "18:20",
+        "17:35"
+      ],
+      "Reaching_Time": [
+        "11:59",
+        "10:50",
+        "11:49"
+      ],
+      "Duration": [
+        "18h 39m",
+        "16h 30m",
+        "18h 14m"
+      ],
+      "Star_Rating": [
+        3.7,
+        2.0,
+        1.7
+      ],
+      "Seat_availability": [
+        23,
+        38,
+        23
+      ],
+      "Price": [
+        "1350",
+        "9",
+        "1699"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Balmiki Nagar (bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Jai Mata Di Tour and Travels",
+        "Jai Mata Di Tour and Travels"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "20:28",
+        "22:40"
+      ],
+      "Reaching_Time": [
+        "06:00",
+        "07:00"
+      ],
+      "Duration": [
+        "09h 32m",
+        "08h 20m"
+      ],
+      "Star_Rating": [
+        3.3,
+        3.0
+      ],
+      "Seat_availability": [
+        6,
+        28
+      ],
+      "Price": [],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Balmiki Nagar (bihar) to Patna (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Jai Mata Di Tour and Travels"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "18:30"
+      ],
+      "Reaching_Time": [
+        "05:00"
+      ],
+      "Duration": [
+        "10h 30m"
+      ],
+      "Star_Rating": [
+        2.3
+      ],
+      "Seat_availability": [
+        10
+      ],
+      "Price": [],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Kathmandu": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Katihar": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 142847",
+        "SOBHA TRAVELS (A.T)",
+        "Sri Krishna Rath"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "21:25",
+        "20:40",
+        "20:30"
+      ],
+      "Reaching_Time": [
+        "06:30",
+        "05:00",
+        "05:35"
+      ],
+      "Duration": [
+        "09h 05m",
+        "08h 20m",
+        "09h 05m"
+      ],
+      "Star_Rating": [
+        3.3,
+        2.9,
+        1.8
+      ],
+      "Seat_availability": [
+        25,
+        31,
+        31
+      ],
+      "Price": [
+        "468"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Purnea": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 142847",
+        "Aitiana Airwings",
+        "AITIANA CRUISELINERS",
+        "Divya Rath",
+        "MAA SHANTI TRAVELS",
+        "AITIANA CRUISELINERS",
+        "Sadhvi Rath",
+        "Hawa Hawai",
+        "Raj Bus Services",
+        "Sri Krishna Tours and Travels",
+        "Raj Bus Services",
+        "Aarush Krrish",
+        "Sri Krishna Tours and Travels",
+        "MAA KAMAKHYA DREAMLINER",
+        "Raj Bus Services",
+        "Raj Bus Services",
+        "Meera Travels (Yvts)",
+        "Shri Sai Krishna Luxury",
+        "Maa Satyabhama Rath",
+        "Shatabdi Travels",
+        "Shivam Travels",
+        "Shatabdi Travels",
+        "Raj Rath",
+        "Sri Krishna Rath",
+        "Sree Balaji Travels",
+        "Jay Jagdambay Tour And Travels"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "Benz A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "NON A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "21:25",
+        "21:00",
+        "21:15",
+        "20:45",
+        "22:10",
+        "20:20",
+        "20:20",
+        "20:00",
+        "19:25",
+        "20:25",
+        "18:25",
+        "21:00",
+        "20:30",
+        "20:40",
+        "16:55",
+        "20:35",
+        "20:30",
+        "21:15",
+        "21:00",
+        "20:20",
+        "21:00",
+        "21:55",
+        "20:30",
+        "20:30",
+        "20:15",
+        "17:00"
+      ],
+      "Reaching_Time": [
+        "05:40",
+        "06:00",
+        "06:15",
+        "05:45",
+        "06:35",
+        "05:30",
+        "06:20",
+        "05:00",
+        "05:05",
+        "05:15",
+        "03:35",
+        "06:00",
+        "05:20",
+        "05:00",
+        "03:05",
+        "05:35",
+        "05:30",
+        "06:15",
+        "06:00",
+        "05:20",
+        "06:30",
+        "06:55",
+        "05:15",
+        "05:45",
+        "05:00",
+        "02:30"
+      ],
+      "Duration": [
+        "08h 15m",
+        "09h 00m",
+        "09h 00m",
+        "09h 00m",
+        "08h 25m",
+        "09h 10m",
+        "10h 00m",
+        "09h 00m",
+        "09h 40m",
+        "08h 50m",
+        "09h 10m",
+        "09h 00m",
+        "08h 50m",
+        "08h 20m",
+        "10h 10m",
+        "09h 00m",
+        "09h 00m",
+        "09h 00m",
+        "09h 00m",
+        "09h 00m",
+        "09h 30m",
+        "09h 00m",
+        "08h 45m",
+        "09h 15m",
+        "08h 45m",
+        "09h 30m"
+      ],
+      "Star_Rating": [
+        3.5,
+        4.3,
+        4.2,
+        4.1,
+        4.2,
+        4.0,
+        3.3,
+        4.0,
+        4.0,
+        3.6,
+        3.2,
+        2.0,
+        2.5,
+        4.1,
+        3.7,
+        3.7,
+        3.4,
+        3.6,
+        3.4,
+        2.8,
+        1.2,
+        2.1,
+        2.5,
+        2.1,
+        2.0,
+        1.9
+      ],
+      "Seat_availability": [
+        25,
+        4,
+        2,
+        9,
+        3,
+        13,
+        25,
+        3,
+        14,
+        10,
+        14,
+        46,
+        24,
+        19,
+        13,
+        14,
+        23,
+        28,
+        13,
+        18,
+        40,
+        17,
+        4,
+        28,
+        49,
+        13
+      ],
+      "Price": [
+        "468",
+        "650",
+        "600",
+        "700",
+        "500",
+        "650",
+        "600",
+        "600",
+        "600",
+        "600",
+        "600",
+        "450",
+        "600",
+        "500",
+        "550"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Hazaribagh": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 153594",
+        "Rajdhani bus service",
+        "Rekha Luxury",
+        "Arzoo Travels",
+        "Sadhvi Rath",
+        "Arzoo Travels",
+        "Sri Sai ( Jharkhand Paryatak)",
+        "Mahuli Travels",
+        "MAA SHANTI TRAVELS",
+        "MAA SHANTI TRAVELS",
+        "Puja Rath",
+        "Chandralok Travels",
+        "Sri Krishna Rath",
+        "Divya Rath",
+        "MAA SHANTI TRAVELS",
+        "Pappu Travels (yvts)",
+        "Tejas Maa Bhawani"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "NON A/C Seater / Sleeper (2+2)",
+        "A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "20:41",
+        "18:30",
+        "20:00",
+        "20:30",
+        "20:40",
+        "20:45",
+        "21:00",
+        "21:15",
+        "21:25",
+        "21:40",
+        "21:00",
+        "21:20",
+        "22:35",
+        "20:15",
+        "20:27",
+        "21:30",
+        "21:30"
+      ],
+      "Reaching_Time": [
+        "04:00",
+        "01:30",
+        "04:00",
+        "02:30",
+        "02:40",
+        "03:30",
+        "04:30",
+        "04:00",
+        "04:20",
+        "04:00",
+        "03:30",
+        "04:30",
+        "06:00",
+        "03:00",
+        "03:15",
+        "03:30",
+        "04:00"
+      ],
+      "Duration": [
+        "07h 19m",
+        "07h 00m",
+        "08h 00m",
+        "06h 00m",
+        "06h 00m",
+        "06h 45m",
+        "07h 30m",
+        "06h 45m",
+        "06h 55m",
+        "06h 20m",
+        "06h 30m",
+        "07h 10m",
+        "07h 25m",
+        "06h 45m",
+        "06h 48m",
+        "06h 00m",
+        "06h 30m"
+      ],
+      "Star_Rating": [
+        2.9,
+        3.8,
+        3.1,
+        3.4,
+        3.0,
+        3.4,
+        4.4,
+        3.7,
+        3.6,
+        3.6,
+        2.0,
+        2.3,
+        1.8,
+        4.2,
+        3.6,
+        3.0,
+        2.0
+      ],
+      "Seat_availability": [
+        28,
+        34,
+        9,
+        19,
+        48,
+        42,
+        10,
+        47,
+        36,
+        17,
+        20,
+        32,
+        17,
+        7,
+        7,
+        6,
+        6
+      ],
+      "Price": [
+        "396",
+        "500",
+        "400",
+        "8",
+        "0",
+        "800"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Ranchi to Patna (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 153614",
+        "Rekha Luxury",
+        "MAA SHANTI TRAVELS",
+        "MAA SHANTI TRAVELS",
+        "Mahuli Travels",
+        "Rajdhani bus service",
+        "Divya Rath",
+        "VIJAY RATH",
+        "Rajdhani bus service",
+        "Sri Sai ( Jharkhand Paryatak)",
+        "Puja Rath",
+        "Maharani Transport",
+        "Chandralok Travels",
+        "Arzoo Travels",
+        "JGD Travels Pvt Ltd.",
+        "Pihu (yvts)",
+        "Tejas Maa Bhawani",
+        "Pihu Enterprises Private Limited",
+        "Pappu Travels (yvts)",
+        "Tejas Maa Bhawani"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Sleeper (2+1)",
+        "A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "20:55",
+        "20:30",
+        "21:00",
+        "22:20",
+        "21:15",
+        "23:00",
+        "22:10",
+        "22:00",
+        "21:40",
+        "21:15",
+        "20:30",
+        "21:30",
+        "21:35",
+        "21:00",
+        "20:35",
+        "21:55",
+        "18:15",
+        "22:10",
+        "16:45",
+        "18:30"
+      ],
+      "Reaching_Time": [
+        "05:30",
+        "06:00",
+        "06:35",
+        "05:55",
+        "06:15",
+        "05:50",
+        "05:30",
+        "06:10",
+        "05:00",
+        "06:00",
+        "05:30",
+        "07:00",
+        "06:30",
+        "05:00",
+        "04:00",
+        "06:10",
+        "04:01",
+        "08:10",
+        "02:40",
+        "03:50"
+      ],
+      "Duration": [
+        "08h 35m",
+        "09h 30m",
+        "09h 35m",
+        "07h 35m",
+        "09h 00m",
+        "06h 50m",
+        "07h 20m",
+        "08h 10m",
+        "07h 20m",
+        "08h 45m",
+        "09h 00m",
+        "09h 30m",
+        "08h 55m",
+        "08h 00m",
+        "07h 25m",
+        "08h 15m",
+        "09h 46m",
+        "10h 00m",
+        "09h 55m",
+        "09h 20m"
+      ],
+      "Star_Rating": [
+        3.2,
+        3.9,
+        3.8,
+        4.8,
+        3.6,
+        4.2,
+        3.5,
+        3.4,
+        1.4,
+        3.4,
+        3.2,
+        2.9,
+        2.0,
+        2.7,
+        2.2,
+        2.4,
+        1.8,
+        3.0,
+        2.4,
+        1.8
+      ],
+      "Seat_availability": [
+        27,
+        5,
+        6,
+        5,
+        24,
+        1,
+        2,
+        24,
+        12,
+        10,
+        20,
+        8,
+        44,
+        20,
+        8,
+        9,
+        16,
+        2,
+        6,
+        8
+      ],
+      "Price": [
+        "500",
+        "5",
+        "499",
+        "650",
+        "800"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Hazaribagh to Patna (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 153614",
+        "MAA SHANTI TRAVELS",
+        "Rekha Luxury",
+        "Rajdhani bus service",
+        "Sri Krishna Rath",
+        "Rajshri Travels",
+        "Arzoo Travels",
+        "Mahuli Travels",
+        "Pappu Travels (yvts)",
+        "Rajdhani bus service",
+        "Tejas Maa Bhawani",
+        "Tejas Maa Bhawani"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "NON A/C Seater / Sleeper (2+2)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "23:15",
+        "23:30",
+        "23:35",
+        "23:45",
+        "21:00",
+        "21:50",
+        "23:30",
+        "23:55",
+        "20:00",
+        "23:59",
+        "21:35",
+        "21:41"
+      ],
+      "Reaching_Time": [
+        "05:30",
+        "06:35",
+        "06:00",
+        "05:00",
+        "04:00",
+        "04:50",
+        "05:00",
+        "06:15",
+        "02:40",
+        "05:50",
+        "04:01",
+        "03:50"
+      ],
+      "Duration": [
+        "06h 15m",
+        "07h 05m",
+        "06h 25m",
+        "05h 15m",
+        "07h 00m",
+        "07h 00m",
+        "05h 30m",
+        "06h 20m",
+        "06h 40m",
+        "05h 51m",
+        "06h 26m",
+        "06h 09m"
+      ],
+      "Star_Rating": [
+        3.7,
+        3.7,
+        4.0,
+        3.8,
+        1.8,
+        1.6,
+        1.5,
+        2.2,
+        3.0,
+        3.9,
+        2.0,
+        2.0
+      ],
+      "Seat_availability": [
+        27,
+        6,
+        6,
+        13,
+        18,
+        25,
+        26,
+        47,
+        6,
+        2,
+        18,
+        8
+      ],
+      "Price": [
+        "377",
+        "400",
+        "399",
+        "800"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Raxaul": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 150571",
+        "Jai Hanuman Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "21:20",
+        "22:00"
+      ],
+      "Reaching_Time": [
+        "04:30",
+        "05:00"
+      ],
+      "Duration": [
+        "07h 10m",
+        "07h 00m"
+      ],
+      "Star_Rating": [
+        3.5,
+        3.1
+      ],
+      "Seat_availability": [
+        31,
+        37
+      ],
+      "Price": [
+        "293",
+        "550"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Muzaffarpur (Bihar) to Kathmandu": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Ranchi": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 153594",
+        "MAA SHANTI TRAVELS",
+        "Rekha Luxury",
+        "Sri Sai ( Jharkhand Paryatak)",
+        "MAA SHANTI TRAVELS",
+        "Mahuli Travels",
+        "Divya Rath",
+        "VIJAY RATH",
+        "Rajdhani bus service",
+        "Maa Bhawani Travels",
+        "Rajdhani bus service",
+        "Arzoo Travels",
+        "Chandralok Travels",
+        "Puja Rath",
+        "Arzoo Travels",
+        "Pihu (yvts)",
+        "JGD Travels Pvt Ltd.",
+        "Sri Krishna Rath",
+        "MAA SHANTI TRAVELS",
+        "Yarana Travels",
+        "Pihu Enterprises Private Limited",
+        "Pappu Travels (yvts)",
+        "Tejas Maa Bhawani",
+        "Jai Mata Di Tour and Travels"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Sleeper (2+1)",
+        "NON A/C Seater / Sleeper (2+2)",
+        "A/C Seater/Sleeper (2+1)",
+        "NON AC Seater / Sleeper 2+1",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "AC Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "20:41",
+        "21:25",
+        "20:00",
+        "21:00",
+        "20:27",
+        "21:15",
+        "20:15",
+        "19:16",
+        "20:05",
+        "21:45",
+        "18:30",
+        "20:45",
+        "21:20",
+        "21:00",
+        "20:30",
+        "19:30",
+        "20:15",
+        "22:35",
+        "21:40",
+        "18:01",
+        "17:15",
+        "21:30",
+        "21:30",
+        "21:30"
+      ],
+      "Reaching_Time": [
+        "06:00",
+        "06:45",
+        "06:00",
+        "06:00",
+        "04:15",
+        "06:00",
+        "04:30",
+        "04:45",
+        "04:00",
+        "05:30",
+        "03:45",
+        "05:30",
+        "06:10",
+        "05:40",
+        "05:30",
+        "04:10",
+        "04:25",
+        "08:30",
+        "06:15",
+        "03:00",
+        "03:00",
+        "06:00",
+        "06:00",
+        "06:00"
+      ],
+      "Duration": [
+        "09h 19m",
+        "09h 20m",
+        "10h 00m",
+        "09h 00m",
+        "07h 48m",
+        "08h 45m",
+        "08h 15m",
+        "09h 29m",
+        "07h 55m",
+        "07h 45m",
+        "09h 15m",
+        "08h 45m",
+        "08h 50m",
+        "08h 40m",
+        "09h 00m",
+        "08h 40m",
+        "08h 10m",
+        "09h 55m",
+        "08h 35m",
+        "08h 59m",
+        "09h 45m",
+        "08h 30m",
+        "08h 30m",
+        "08h 30m"
+      ],
+      "Star_Rating": [
+        3.1,
+        3.8,
+        3.8,
+        3.7,
+        4.0,
+        3.7,
+        4.0,
+        4.0,
+        3.8,
+        2.6,
+        3.8,
+        3.0,
+        2.6,
+        2.8,
+        2.3,
+        3.0,
+        2.4,
+        1.0,
+        3.8,
+        3.4,
+        3.0,
+        3.0,
+        2.7,
+        2.4
+      ],
+      "Seat_availability": [
+        28,
+        27,
+        8,
+        10,
+        7,
+        40,
+        3,
+        21,
+        2,
+        23,
+        9,
+        24,
+        32,
+        20,
+        18,
+        16,
+        8,
+        17,
+        17,
+        10,
+        8,
+        6,
+        4,
+        21
+      ],
+      "Price": [
+        "525",
+        "0",
+        "8",
+        "500",
+        "700",
+        "550",
+        "800"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Muzaffarpur (Bihar) to Ranchi": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 153594",
+        "Pawapuri Motors",
+        "JGD Travels Pvt Ltd.",
+        "Jai Mata Di Tour and Travels",
+        "Jai Mata Di Tour and Travels",
+        "Tejas Maa Bhawani",
+        "Tejas Maa Bhawani",
+        "Tejas Maa Bhawani"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "AC Sleeper (2+1)",
+        "A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "18:00",
+        "17:30",
+        "18:10",
+        "19:15",
+        "17:45",
+        "19:00",
+        "18:45",
+        "18:55"
+      ],
+      "Reaching_Time": [
+        "06:00",
+        "05:45",
+        "04:25",
+        "06:00",
+        "04:45",
+        "05:30",
+        "06:00",
+        "06:00"
+      ],
+      "Duration": [
+        "12h 00m",
+        "12h 15m",
+        "10h 15m",
+        "10h 45m",
+        "11h 00m",
+        "10h 30m",
+        "11h 15m",
+        "11h 05m"
+      ],
+      "Star_Rating": [
+        3.3,
+        1.9,
+        3.6,
+        3.0,
+        3.6,
+        2.9,
+        2.9,
+        2.9
+      ],
+      "Seat_availability": [
+        28,
+        13,
+        10,
+        23,
+        6,
+        16,
+        4,
+        6
+      ],
+      "Price": [
+        "605"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kathmandu to Patna (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 165505"
+      ],
+      "Bus_Type": [
+        "A/C Seater Hi-Tech Push Back (2+2)"
+      ],
+      "Departing_Time": [
+        "17:45"
+      ],
+      "Reaching_Time": [
+        "13:00"
+      ],
+      "Duration": [
+        "19h 15m"
+      ],
+      "Star_Rating": [
+        3.2
+      ],
+      "Seat_availability": [
+        3
+      ],
+      "Price": [
+        "1015"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Ranchi to Muzaffarpur (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 153614",
+        "JGD Travels Pvt Ltd.",
+        "Tejas Maa Bhawani",
+        "Jai Mata Di Tour and Travels",
+        "Tejas Maa Bhawani"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "Bharat Benz A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "20:55",
+        "20:35",
+        "18:15",
+        "18:45",
+        "18:30"
+      ],
+      "Reaching_Time": [
+        "07:30",
+        "06:15",
+        "05:30",
+        "04:15",
+        "05:15"
+      ],
+      "Duration": [
+        "10h 35m",
+        "09h 40m",
+        "11h 15m",
+        "09h 30m",
+        "10h 45m"
+      ],
+      "Star_Rating": [
+        3.0,
+        3.6,
+        2.0,
+        1.1,
+        2.4
+      ],
+      "Seat_availability": [
+        27,
+        8,
+        16,
+        1,
+        8
+      ],
+      "Price": [
+        "605"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Motihari to Lucknow": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 137431",
+        "MISHRA BANDHU BUS SERVICE",
+        "Baba Khatushyam Travels Pvt Ltd",
+        "Travel Point World LLP",
+        "Shree Balajee Travels And Cargo"
+      ],
+      "Bus_Type": [
+        "Volvo AC Seater 2+2",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (3+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "17:20",
+        "16:55",
+        "17:35",
+        "18:20",
+        "22:50"
+      ],
+      "Reaching_Time": [
+        "03:25",
+        "04:14",
+        "03:00",
+        "03:20",
+        "05:20"
+      ],
+      "Duration": [
+        "10h 05m",
+        "11h 19m",
+        "09h 25m",
+        "09h 00m",
+        "06h 30m"
+      ],
+      "Star_Rating": [
+        3.5,
+        2.4,
+        1.7,
+        1.5,
+        1.2
+      ],
+      "Seat_availability": [
+        23,
+        32,
+        48,
+        38,
+        23
+      ],
+      "Price": [
+        "800",
+        "850",
+        "1199",
+        "9",
+        "1199"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Lucknow to Motihari": {
+    "Private": {
+      "Bus_Name": [
+        "MISHRA BANDHU BUS SERVICE"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "21:30"
+      ],
+      "Reaching_Time": [
+        "07:30"
+      ],
+      "Duration": [
+        "10h 00m"
+      ],
+      "Star_Rating": [
+        2.4
+      ],
+      "Seat_availability": [
+        23
+      ],
+      "Price": [
+        "799"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Motihari to Kathmandu": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Agra to Motihari": {
+    "Private": {
+      "Bus_Name": [
+        "Shree Balajee Travels And Cargo",
+        "Shree Balajee Travels And Cargo"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater/ Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "21:30",
+        "18:00"
+      ],
+      "Reaching_Time": [
+        "15:30",
+        "09:00"
+      ],
+      "Duration": [
+        "0-6h 00m",
+        "15h 00m"
+      ],
+      "Star_Rating": [
+        1.2,
+        1.2
+      ],
+      "Seat_availability": [
+        47
+      ],
+      "Price": [
+        "1500",
+        "1799"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Janakpur (Nepal)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 171326",
+        "V.I.P Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)",
+        "A/C Seater Hi-Tech Push Back (2+2)"
+      ],
+      "Departing_Time": [
+        "21:55",
+        "21:30"
+      ],
+      "Reaching_Time": [
+        "06:30",
+        "07:00"
+      ],
+      "Duration": [
+        "08h 35m",
+        "09h 30m"
+      ],
+      "Star_Rating": [
+        3.0,
+        3.0
+      ],
+      "Seat_availability": [
+        33,
+        27
+      ],
+      "Price": [
+        "275",
+        "375"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Muzaffarpur (Bihar) to Hazaribagh": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 153594",
+        "Pawapuri Motors",
+        "Tejas Maa Bhawani",
+        "Tejas Maa Bhawani",
+        "Tejas Maa Bhawani"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "AC Sleeper (2+1)",
+        "A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "18:00",
+        "17:30",
+        "19:00",
+        "18:45",
+        "18:55"
+      ],
+      "Reaching_Time": [
+        "04:00",
+        "03:00",
+        "02:30",
+        "03:25",
+        "04:00"
+      ],
+      "Duration": [
+        "10h 00m",
+        "09h 30m",
+        "07h 30m",
+        "08h 40m",
+        "09h 05m"
+      ],
+      "Star_Rating": [
+        3.8,
+        2.2,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "Seat_availability": [
+        28,
+        14,
+        16,
+        4,
+        6
+      ],
+      "Price": [
+        "484"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Purnea to Patna (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 156563",
+        "Aitiana Airwings",
+        "Divya Rath",
+        "AITIANA CRUISELINERS",
+        "MAA SHANTI TRAVELS",
+        "Raj Bus Services",
+        "MAA SHANTI TRAVELS",
+        "Maa Satyabhama Rath",
+        "Sri Krishna Tours and Travels",
+        "Shatabdi Travels",
+        "Sadhvi Rath",
+        "Aarush Krrish",
+        "Shatabdi Travels",
+        "Hawa Hawai",
+        "Vivek Travels (yvts)",
+        "Sri Krishna Rath",
+        "Shivam Travels",
+        "Meera Travels (Yvts)",
+        "Sree Balaji Travels",
+        "Sameer Travels (GT)"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "Benz A/C Sleeper (2+1)",
+        "A/C Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater/Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "NON A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "19:00",
+        "21:00",
+        "20:30",
+        "20:15",
+        "20:10",
+        "22:45",
+        "20:45",
+        "21:00",
+        "21:00",
+        "19:30",
+        "19:36",
+        "21:00",
+        "19:50",
+        "20:30",
+        "22:00",
+        "21:00",
+        "20:30",
+        "20:15",
+        "19:30",
+        "23:40"
+      ],
+      "Reaching_Time": [
+        "04:00",
+        "05:00",
+        "05:30",
+        "05:15",
+        "05:00",
+        "07:45",
+        "05:15",
+        "06:00",
+        "05:20",
+        "04:30",
+        "05:36",
+        "05:30",
+        "04:50",
+        "05:30",
+        "05:20",
+        "04:15",
+        "05:00",
+        "06:15",
+        "04:30",
+        "06:30"
+      ],
+      "Duration": [
+        "09h 00m",
+        "08h 00m",
+        "09h 00m",
+        "09h 00m",
+        "08h 50m",
+        "09h 00m",
+        "08h 30m",
+        "09h 00m",
+        "08h 20m",
+        "09h 00m",
+        "10h 00m",
+        "08h 30m",
+        "09h 00m",
+        "09h 00m",
+        "07h 20m",
+        "07h 15m",
+        "08h 30m",
+        "10h 00m",
+        "09h 00m",
+        "06h 50m"
+      ],
+      "Star_Rating": [
+        4.5,
+        4.1,
+        4.4,
+        4.0,
+        3.8,
+        2.1,
+        3.8,
+        3.6,
+        3.3,
+        3.3,
+        3.2,
+        3.2,
+        2.6,
+        2.8,
+        2.8,
+        1.7,
+        1.2,
+        1.5,
+        1.0,
+        2.5
+      ],
+      "Seat_availability": [
+        35,
+        10,
+        8,
+        3,
+        8,
+        1,
+        18,
+        18,
+        5,
+        20,
+        19,
+        48,
+        28,
+        13,
+        15,
+        19,
+        43,
+        6,
+        49,
+        20
+      ],
+      "Price": [
+        "468",
+        "650",
+        "600",
+        "600",
+        "599",
+        "600",
+        "650",
+        "700",
+        "449",
+        "450",
+        "600",
+        "550",
+        "550"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Araria (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 142847",
+        "Divya Rath",
+        "AITIANA CRUISELINERS",
+        "Sadhvi Rath",
+        "AITIANA CRUISELINERS",
+        "Hawa Hawai",
+        "MAA SHANTI TRAVELS",
+        "Sri Krishna Tours and Travels",
+        "Shatabdi Travels",
+        "Maa Satyabhama Rath",
+        "Shri Sai Krishna Luxury",
+        "Shatabdi Travels",
+        "Sri Krishna Rath"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "21:25",
+        "20:45",
+        "21:15",
+        "20:20",
+        "20:20",
+        "20:00",
+        "22:10",
+        "20:30",
+        "20:20",
+        "21:00",
+        "21:15",
+        "21:55",
+        "20:30"
+      ],
+      "Reaching_Time": [
+        "04:35",
+        "04:45",
+        "05:30",
+        "05:10",
+        "04:30",
+        "04:00",
+        "05:25",
+        "04:55",
+        "04:20",
+        "05:30",
+        "05:45",
+        "05:55",
+        "05:20"
+      ],
+      "Duration": [
+        "07h 10m",
+        "08h 00m",
+        "08h 15m",
+        "08h 50m",
+        "08h 10m",
+        "08h 00m",
+        "07h 15m",
+        "08h 25m",
+        "08h 00m",
+        "08h 30m",
+        "08h 30m",
+        "08h 00m",
+        "08h 50m"
+      ],
+      "Star_Rating": [
+        3.6,
+        4.3,
+        4.2,
+        3.2,
+        3.4,
+        3.4,
+        3.5,
+        3.3,
+        3.8,
+        3.4,
+        3.2,
+        3.8,
+        2.0
+      ],
+      "Seat_availability": [
+        27,
+        9,
+        2,
+        27,
+        14,
+        3,
+        3,
+        45,
+        18,
+        13,
+        25,
+        19,
+        31
+      ],
+      "Price": [
+        "468",
+        "600",
+        "500",
+        "700",
+        "600",
+        "600",
+        "600",
+        "600",
+        "600"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Darbhanga to Patna (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 150464",
+        "Sri Krishna Tours and Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)",
+        "A/C Seater Push Back (2+2)"
+      ],
+      "Departing_Time": [
+        "17:40",
+        "17:00"
+      ],
+      "Reaching_Time": [
+        "21:40",
+        "20:55"
+      ],
+      "Duration": [
+        "04h 00m",
+        "03h 55m"
+      ],
+      "Star_Rating": [
+        2.0,
+        3.7
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "213",
+        "330"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Saharsa": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 152896",
+        "Rukmanti (AT)",
+        "Raj Rath",
+        "Sri Krishna Rath"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "21:59",
+        "20:00",
+        "21:00",
+        "20:30"
+      ],
+      "Reaching_Time": [
+        "06:00",
+        "05:00",
+        "06:00",
+        "04:00"
+      ],
+      "Duration": [
+        "08h 01m",
+        "09h 00m",
+        "09h 00m",
+        "07h 30m"
+      ],
+      "Star_Rating": [
+        2.8,
+        1.5,
+        2.3,
+        1.8
+      ],
+      "Seat_availability": [
+        7,
+        35,
+        24,
+        28
+      ],
+      "Price": [
+        "400",
+        "425"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Motihari to Agra": {
+    "Private": {
+      "Bus_Name": [
+        "Travel Point World LLP"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "18:20"
+      ],
+      "Reaching_Time": [
+        "06:50"
+      ],
+      "Duration": [
+        "12h 30m"
+      ],
+      "Star_Rating": [
+        1.5
+      ],
+      "Seat_availability": [
+        38
+      ],
+      "Price": [
+        "9"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Hajipur (Bihar) to Kathmandu": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kathmandu to Motihari": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 165505",
+        "V.I.P Travels"
+      ],
+      "Bus_Type": [
+        "A/C Seater Hi-Tech Push Back (2+2)",
+        "A/C Seater Hi-Tech Push Back (2+2)"
+      ],
+      "Departing_Time": [
+        "17:45",
+        "18:30"
+      ],
+      "Reaching_Time": [
+        "08:00",
+        "07:30"
+      ],
+      "Duration": [
+        "14h 15m",
+        "13h 00m"
+      ],
+      "Star_Rating": [
+        3.7,
+        3.0
+      ],
+      "Seat_availability": [
+        3,
+        42
+      ],
+      "Price": [
+        "685"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Patna (Bihar) to Forbesganj": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 142847",
+        "Divya Rath",
+        "MAA SHANTI TRAVELS",
+        "Raj Bus Services",
+        "Raj Bus Services",
+        "Raj Bus Services",
+        "Raj Bus Services",
+        "Sri Krishna Tours and Travels",
+        "Sadhvi Rath",
+        "Shatabdi Travels",
+        "Shri Sai Krishna Luxury",
+        "Maa Satyabhama Rath",
+        "Meera Travels (Yvts)",
+        "Aarush Krrish",
+        "Shatabdi Travels",
+        "Sri Krishna Rath"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "21:25",
+        "20:45",
+        "22:10",
+        "20:35",
+        "17:05",
+        "19:25",
+        "18:25",
+        "20:30",
+        "20:20",
+        "20:20",
+        "21:15",
+        "21:00",
+        "20:30",
+        "21:00",
+        "21:55",
+        "20:30"
+      ],
+      "Reaching_Time": [
+        "04:00",
+        "03:45",
+        "05:00",
+        "04:05",
+        "02:05",
+        "04:05",
+        "02:15",
+        "04:10",
+        "03:05",
+        "04:05",
+        "04:45",
+        "04:45",
+        "05:15",
+        "04:00",
+        "05:40",
+        "04:00"
+      ],
+      "Duration": [
+        "06h 35m",
+        "07h 00m",
+        "06h 50m",
+        "07h 30m",
+        "09h 00m",
+        "08h 40m",
+        "07h 50m",
+        "07h 40m",
+        "06h 45m",
+        "07h 45m",
+        "07h 30m",
+        "07h 45m",
+        "08h 45m",
+        "07h 00m",
+        "07h 45m",
+        "07h 30m"
+      ],
+      "Star_Rating": [
+        3.3,
+        4.7,
+        4.0,
+        3.4,
+        3.4,
+        3.4,
+        3.4,
+        3.3,
+        3.0,
+        3.8,
+        2.9,
+        2.9,
+        1.8,
+        2.2,
+        3.5,
+        1.8
+      ],
+      "Seat_availability": [
+        27,
+        9,
+        3,
+        15,
+        13,
+        14,
+        15,
+        24,
+        25,
+        17,
+        29,
+        13,
+        29,
+        46,
+        17,
+        28
+      ],
+      "Price": [
+        "450",
+        "700",
+        "600",
+        "600",
+        "600",
+        "600",
+        "600",
+        "600"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Ranchi to Hajipur (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 153614",
+        "JGD Travels Pvt Ltd.",
+        "Jai Mata Di Tour and Travels",
+        "Jai Mata Di Tour and Travels",
+        "Tejas Maa Bhawani",
+        "Tejas Maa Bhawani"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "Bharat Benz A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "20:55",
+        "20:35",
+        "18:45",
+        "18:30",
+        "18:15",
+        "18:30"
+      ],
+      "Reaching_Time": [
+        "06:30",
+        "05:00",
+        "03:15",
+        "04:00",
+        "03:55",
+        "05:00"
+      ],
+      "Duration": [
+        "09h 35m",
+        "08h 25m",
+        "08h 30m",
+        "09h 30m",
+        "09h 40m",
+        "10h 30m"
+      ],
+      "Star_Rating": [
+        3.2,
+        4.0,
+        2.4,
+        2.4,
+        2.0,
+        2.0
+      ],
+      "Seat_availability": [
+        29,
+        22,
+        4,
+        4,
+        16,
+        8
+      ],
+      "Price": [
+        "541"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Lucknow to Gopalganj (Bihar)": {
+    "Private": {
+      "Bus_Name": [
+        "Samay Shatabdi Travels Pvt Ltd",
+        "MISHRA BANDHU BUS SERVICE",
+        "Gorakhdham Express Bus Service",
+        "Maan Travels",
+        "Maa Laxmi Bihar Express",
+        "Shree Balajee Travels And Cargo"
+      ],
+      "Bus_Type": [
+        "AC Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "NON AC Seater / Sleeper 2+1",
+        "Non A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "21:00",
+        "21:30",
+        "23:55",
+        "23:55",
+        "22:30",
+        "23:30"
+      ],
+      "Reaching_Time": [
+        "03:45",
+        "05:00",
+        "07:30",
+        "10:30",
+        "08:00",
+        "07:30"
+      ],
+      "Duration": [
+        "06h 45m",
+        "07h 30m",
+        "07h 35m",
+        "10h 35m",
+        "09h 30m",
+        "08h 00m"
+      ],
+      "Star_Rating": [
+        4.4,
+        3.9,
+        1.6,
+        1.6,
+        1.3,
+        1.2
+      ],
+      "Seat_availability": [
+        1,
+        19,
+        23,
+        41,
+        33,
+        47
+      ],
+      "Price": [
+        "1199",
+        "799",
+        "1212",
+        "1250",
+        "1000",
+        "1799"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {
+      "Bus_Name": [
+        "Bihar state road transport corporation (BSRTC) - 152185",
+        "Bihar state road transport corporation (BSRTC) - 157518",
+        "Samay Shatabdi Travels Pvt Ltd",
+        "MISHRA BANDHU BUS SERVICE",
+        "Gorakhdham Express Bus Service",
+        "Maan Travels",
+        "Maa Laxmi Bihar Express",
+        "Shree Balajee Travels And Cargo"
+      ],
+      "Bus_Type": [
+        "Volvo AC Seater 2+2",
+        "Volvo AC Seater 2+2",
+        "AC Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)",
+        "NON AC Seater / Sleeper 2+1",
+        "Non A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "23:00",
+        "23:50",
+        "21:00",
+        "21:30",
+        "23:55",
+        "23:55",
+        "22:30",
+        "23:30"
+      ],
+      "Reaching_Time": [
+        "07:00",
+        "09:00",
+        "03:45",
+        "05:00",
+        "07:30",
+        "10:30",
+        "08:00",
+        "07:30"
+      ],
+      "Duration": [
+        "08h 00m",
+        "09h 10m",
+        "06h 45m",
+        "07h 30m",
+        "07h 35m",
+        "10h 35m",
+        "09h 30m",
+        "08h 00m"
+      ],
+      "Star_Rating": [
+        3.7,
+        3.7,
+        4.4,
+        3.9,
+        1.6,
+        1.6,
+        1.3,
+        1.2
+      ],
+      "Seat_availability": [
+        1,
+        38,
+        1,
+        19,
+        23,
+        41,
+        33,
+        47
+      ],
+      "Price": [
+        "700",
+        "800",
+        "1199",
+        "799",
+        "1212",
+        "1250",
+        "1000",
+        "1799"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    }
+  }
+}

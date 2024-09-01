@@ -1,0 +1,2143 @@
+{
+  "Burdwan to Kolkata": {
+    "Private": {
+      "Bus_Name": [
+        "SHYAMOLI Pvt. Ltd.(Karunamoyee)",
+        "Express Line",
+        "Shyamoli Paribahan Pvt Ltd"
+      ],
+      "Bus_Type": [
+        "Volvo A/C Seater (2+2)",
+        "Volvo 9600 A/C Seater (2+2)",
+        "Volvo A/C Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "19:15",
+        "19:40",
+        "19:15"
+      ],
+      "Reaching_Time": [
+        "21:35",
+        "22:50",
+        "22:00"
+      ],
+      "Duration": [
+        "02h 35m",
+        "03h 10m",
+        "02h 45m"
+      ],
+      "Star_Rating": [
+        3.8,
+        4.0,
+        2.5
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "429",
+        "429",
+        "429"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kolkata to Burdwan": {
+    "Private": {
+      "Bus_Name": [
+        "Suman sabir",
+        "Pammi Travels",
+        "Pammi Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)",
+        "A/C Sleeper (2+1)",
+        "Non A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "21:00",
+        "21:00",
+        "21:00"
+      ],
+      "Reaching_Time": [
+        "23:59",
+        "23:59",
+        "23:59"
+      ],
+      "Duration": [
+        "02h 59m",
+        "02h 59m",
+        "02h 59m"
+      ],
+      "Star_Rating": [
+        1.2,
+        3.7,
+        3.7
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "111",
+        "1300",
+        "650"
+      ],
+      "Reach_date": []
+    },
+    "Government": {
+      "Bus_Name": [
+        "SBSTC-KARUNAMOYEE - BURDWAN - 19:30 (BWN DEPOT) - 120",
+        "SBSTC-KOLKATA - BURDWAN - 20:00 (BWN DEPOT) - 103",
+        "Suman sabir",
+        "Pammi Travels",
+        "Pammi Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)",
+        "Non AC Seater (2+3)",
+        "Non AC Seater (2+3)",
+        "A/C Sleeper (2+1)",
+        "Non A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "19:30",
+        "20:00",
+        "21:00",
+        "21:00",
+        "21:00"
+      ],
+      "Reaching_Time": [
+        "21:30",
+        "22:00",
+        "23:59",
+        "23:59",
+        "23:59"
+      ],
+      "Duration": [
+        "02h 00m",
+        "02h 00m",
+        "02h 59m",
+        "02h 59m",
+        "02h 59m"
+      ],
+      "Star_Rating": [
+        4.0,
+        3.8,
+        1.2,
+        3.7,
+        3.7
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "100",
+        "95",
+        "111",
+        "1300",
+        "650"
+      ],
+      "Reach_date": []
+    }
+  },
+  "Durgapur (West Bengal) to Kolkata": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kolkata to Haldia": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Haldia to Kolkata": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kolkata to Durgapur (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "Shyamoli Paribahan Pvt Ltd"
+      ],
+      "Bus_Type": [
+        "Volvo A/C Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "19:20"
+      ],
+      "Reaching_Time": [
+        "22:25"
+      ],
+      "Duration": [
+        "03h 05m"
+      ],
+      "Star_Rating": [
+        4.4
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "486"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kolkata to Arambagh (West Bengal)": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Digha to Kolkata": {
+    "Private": {
+      "Bus_Name": [
+        "City Express (Shinjini)",
+        "Satya Paribahan",
+        "Snemita Paribahan(Shinjini)",
+        "Parameswar Travels",
+        "Snemita Paribahan (Shinjini)",
+        "The Joy Ride",
+        "Parameswar Travels",
+        "Satya Paribahan",
+        "Aradhana Bus Service",
+        "Aradhana Travels",
+        "Arunita Paribahan",
+        "Snemita Paribahan",
+        "Aradhana Travels"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+3)",
+        "A/C Seater (2+3)",
+        "A/C Seater (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "AC Seater (2+3)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater (2+3)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "A/C Seater (2+3)",
+        "A/C Seater (2+3)",
+        "Non AC Seater (2+3)"
+      ],
+      "Departing_Time": [
+        "22:45",
+        "23:00",
+        "22:45",
+        "20:00",
+        "23:35",
+        "21:15",
+        "21:00",
+        "23:30",
+        "23:00",
+        "19:30",
+        "23:35",
+        "23:30",
+        "21:45"
+      ],
+      "Reaching_Time": [
+        "04:10",
+        "03:45",
+        "04:10",
+        "01:35",
+        "03:45",
+        "02:30",
+        "03:00",
+        "03:40",
+        "04:00",
+        "23:59",
+        "03:45",
+        "04:00",
+        "03:25"
+      ],
+      "Duration": [
+        "05h 25m",
+        "04h 45m",
+        "05h 25m",
+        "05h 35m",
+        "04h 10m",
+        "05h 15m",
+        "06h 00m",
+        "04h 10m",
+        "05h 00m",
+        "04h 29m",
+        "04h 10m",
+        "04h 30m",
+        "05h 40m"
+      ],
+      "Star_Rating": [
+        3.7,
+        3.1,
+        2.8,
+        3.4,
+        2.8,
+        3.6,
+        3.2,
+        1.7,
+        1.4,
+        1.6,
+        2.3,
+        2.1,
+        1.5
+      ],
+      "Seat_availability": [
+        26,
+        12,
+        27,
+        18,
+        21,
+        45,
+        10,
+        31,
+        39,
+        12,
+        45,
+        19
+      ],
+      "Price": [
+        "320",
+        "320",
+        "420",
+        "370",
+        "370"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Digha": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745",
+        "Shyamoli Paribahan Pvt Ltd",
+        "Express Line",
+        "Maa Chandi Travels",
+        "Shyamoli Paribahan Pvt Ltd",
+        "Maa Chandi Travels",
+        "Sagufta Travels(Maa Chandi)",
+        "Sagufta Travels (Bhorpet Travels)",
+        "City Express (Shinjini)",
+        "Sagufta Travels (Mayuri)",
+        "Parameswar Travels",
+        "Parameswar Travels",
+        "Sagufta Travels(Maa Chandi)",
+        "Sagufta Travels (Atithi)",
+        "Snemita Paribahan (Bhorpet)",
+        "Basu Travels",
+        "Snemita Paribahan(Shinjini)",
+        "Sagufta Travels (Sagar Kanya)",
+        "Parameswar Travels",
+        "Parameswar Travels",
+        "Santosh Bus Service",
+        "Parameswar Travels",
+        "Arunita Paribahan",
+        "City Express (Shinjini)",
+        "Santosh Bus Service",
+        "Ankita Paribahan (Maity Motor)",
+        "Ankita Paribahan(Atithi)",
+        "Bengal Surface Transport",
+        "Bengal Surface Transport",
+        "Basu Travels",
+        "Ankita Paribahan(Atithi)",
+        "Mayuri Express",
+        "Snemita Paribahan (Shinjini)",
+        "Anadi Travels (Disha Gold)"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)",
+        "VE A/C Seater (2+2)",
+        "Volvo 9600 A/C Seater (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "Volvo A/C Seater (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "AC Seater (2+2)",
+        "AC Seater (2+3)",
+        "A/C Seater (2+2)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater Push Back (2+3)",
+        "AC Seater (2+2)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+2)",
+        "AC Seater (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "AC Seater (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater Push Back (2+3)"
+      ],
+      "Departing_Time": [
+        "23:45",
+        "23:30",
+        "23:45",
+        "22:00",
+        "23:45",
+        "23:57",
+        "23:57",
+        "23:55",
+        "23:50",
+        "23:15",
+        "23:59",
+        "23:45",
+        "22:10",
+        "23:59",
+        "23:55",
+        "23:30",
+        "23:50",
+        "23:30",
+        "21:50",
+        "23:55",
+        "23:50",
+        "23:50",
+        "23:45",
+        "23:45",
+        "23:59",
+        "22:20",
+        "23:55",
+        "23:59",
+        "23:20",
+        "23:55",
+        "22:40",
+        "23:15",
+        "23:45",
+        "23:00"
+      ],
+      "Reaching_Time": [
+        "04:15",
+        "04:30",
+        "04:45",
+        "05:30",
+        "04:45",
+        "05:10",
+        "05:10",
+        "04:35",
+        "04:55",
+        "04:00",
+        "05:00",
+        "05:00",
+        "05:40",
+        "05:00",
+        "04:45",
+        "04:30",
+        "04:30",
+        "04:05",
+        "03:45",
+        "05:00",
+        "05:00",
+        "04:45",
+        "04:45",
+        "04:35",
+        "05:30",
+        "03:00",
+        "05:00",
+        "05:00",
+        "04:30",
+        "05:00",
+        "05:20",
+        "04:30",
+        "04:35",
+        "04:40"
+      ],
+      "Duration": [
+        "04h 30m",
+        "05h 00m",
+        "05h 00m",
+        "07h 30m",
+        "05h 00m",
+        "05h 13m",
+        "05h 13m",
+        "04h 40m",
+        "05h 05m",
+        "04h 45m",
+        "05h 01m",
+        "05h 15m",
+        "07h 30m",
+        "05h 01m",
+        "04h 50m",
+        "05h 00m",
+        "04h 40m",
+        "04h 35m",
+        "05h 55m",
+        "05h 05m",
+        "05h 10m",
+        "04h 55m",
+        "05h 00m",
+        "04h 50m",
+        "05h 31m",
+        "04h 40m",
+        "05h 05m",
+        "05h 01m",
+        "05h 10m",
+        "05h 05m",
+        "06h 40m",
+        "05h 15m",
+        "04h 50m",
+        "05h 40m"
+      ],
+      "Star_Rating": [
+        4.2,
+        4.5,
+        4.5,
+        4.6,
+        4.6,
+        4.4,
+        4.4,
+        3.8,
+        3.3,
+        4.7,
+        2.9,
+        2.8,
+        4.2,
+        3.2,
+        3.6,
+        3.5,
+        2.8,
+        2.6,
+        2.6,
+        1.9,
+        4.3,
+        3.5,
+        3.5,
+        3.5,
+        2.5,
+        3.0,
+        3.0,
+        2.4,
+        2.7,
+        2.3,
+        1.5,
+        4.2,
+        3.8,
+        1.0
+      ],
+      "Seat_availability": [
+        26,
+        7,
+        43,
+        21,
+        34,
+        25,
+        23,
+        18,
+        29,
+        20,
+        49,
+        46,
+        34,
+        16,
+        22,
+        18,
+        20,
+        5,
+        46,
+        49,
+        34,
+        18,
+        21,
+        12,
+        37,
+        25,
+        20,
+        20,
+        21,
+        21,
+        20,
+        27,
+        16,
+        60
+      ],
+      "Price": [
+        "155",
+        "400",
+        "450",
+        "400",
+        "320",
+        "390",
+        "269",
+        "320",
+        "370",
+        "320",
+        "399",
+        "419",
+        "469",
+        "320",
+        "500"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Bankura": {
+    "Private": {
+      "Bus_Name": [
+        "City Queen Bus Service"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "21:30"
+      ],
+      "Reaching_Time": [
+        "03:30"
+      ],
+      "Duration": [
+        "06h 00m"
+      ],
+      "Star_Rating": [
+        2.2
+      ],
+      "Seat_availability": [
+        18
+      ],
+      "Price": [
+        "285"
+      ],
+      "Reach_date": [
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Asansol (West Bengal) to Kolkata": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Midnapore to Kolkata": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kolkata to Asansol (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "Beauty Travels",
+        "Maharani Travels"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater / Sleeper (2+2)",
+        "A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "20:20",
+        "21:05"
+      ],
+      "Reaching_Time": [
+        "00:30",
+        "02:00"
+      ],
+      "Duration": [
+        "04h 10m",
+        "04h 55m"
+      ],
+      "Star_Rating": [
+        3.0,
+        2.7
+      ],
+      "Seat_availability": [
+        36,
+        20
+      ],
+      "Price": [
+        "380"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Siliguri": {
+    "Private": {
+      "Bus_Name": [
+        "Lokenath Bus Service",
+        "Express Line",
+        "Rubi Paribahan",
+        "Easy Ride",
+        "Lokenath Bus Service",
+        "Express Line",
+        "Maulik Paribahan"
+      ],
+      "Bus_Type": [
+        "Volvo Multi Axle B11R AC Seater\\Sleeper (2+1)",
+        "Volvo 9600 A/C Seater/Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "20:00",
+        "20:15",
+        "20:00",
+        "19:40",
+        "19:40",
+        "19:35",
+        "19:35"
+      ],
+      "Reaching_Time": [
+        "08:00",
+        "08:25",
+        "07:30",
+        "07:25",
+        "07:30",
+        "07:40",
+        "07:45"
+      ],
+      "Duration": [
+        "12h 00m",
+        "12h 10m",
+        "11h 30m",
+        "11h 45m",
+        "11h 50m",
+        "12h 05m",
+        "12h 10m"
+      ],
+      "Star_Rating": [
+        4.5,
+        4.4,
+        4.1,
+        4.7,
+        4.6,
+        4.5,
+        2.8
+      ],
+      "Seat_availability": [
+        13,
+        27,
+        16,
+        10,
+        6,
+        10,
+        50
+      ],
+      "Price": [
+        "1200",
+        "9",
+        "1499",
+        "1500",
+        "1500",
+        "9",
+        "1000"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Nimtouri": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)"
+      ],
+      "Departing_Time": [
+        "23:45"
+      ],
+      "Reaching_Time": [
+        "00:00"
+      ],
+      "Duration": [
+        "00h 15m"
+      ],
+      "Star_Rating": [
+        4.0
+      ],
+      "Seat_availability": [
+        8
+      ],
+      "Price": [
+        "78"
+      ],
+      "Reach_date": [
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Siliguri to Kolkata": {
+    "Private": {
+      "Bus_Name": [
+        "Easy Ride",
+        "Express Line",
+        "Shyamoli Paribahan Pvt Ltd",
+        "Lokenath Bus Service",
+        "Greenline",
+        "Rubi Paribahan",
+        "Shyamoli Paribahan Pvt Ltd",
+        "Lokenath Bus Service",
+        "Lokenath Bus Service",
+        "Gopal Travels"
+      ],
+      "Bus_Type": [
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo Multi-Axle A/C seater/sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 A/C Seater/Sleeper (2+1)",
+        "Volvo Multi-Axle A/C Seater/Sleeper (2+1)",
+        "Volvo Multi Axle B11R AC Seater\\Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "20:15",
+        "19:45",
+        "19:45",
+        "19:55",
+        "19:45",
+        "19:45",
+        "19:45",
+        "19:45",
+        "21:00",
+        "20:00"
+      ],
+      "Reaching_Time": [
+        "07:25",
+        "07:10",
+        "07:20",
+        "07:45",
+        "07:30",
+        "07:30",
+        "07:50",
+        "06:45",
+        "08:30",
+        "08:10"
+      ],
+      "Duration": [
+        "11h 10m",
+        "11h 25m",
+        "11h 35m",
+        "11h 50m",
+        "11h 45m",
+        "11h 45m",
+        "12h 05m",
+        "11h 00m",
+        "11h 30m",
+        "12h 10m"
+      ],
+      "Star_Rating": [
+        4.8,
+        4.6,
+        4.4,
+        4.5,
+        4.4,
+        4.5,
+        4.3,
+        4.2,
+        4.1,
+        2.5
+      ],
+      "Seat_availability": [
+        19,
+        13,
+        16,
+        23,
+        27,
+        19,
+        38,
+        36,
+        39,
+        65
+      ],
+      "Price": [
+        "1500",
+        "9",
+        "1200",
+        "1500",
+        "1500",
+        "1499",
+        "1200",
+        "1200",
+        "1200",
+        "1100"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Contai (Kanthi)": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745",
+        "Parameswar Travels",
+        "Mayuri Express",
+        "Mayuri Express",
+        "City Express (Shinjini)",
+        "Parameswar Travels",
+        "Snemita Paribahan (Shinjini)",
+        "Parameswar Travels",
+        "Parameswar Travels",
+        "Parameswar Travels",
+        "Santosh Bus Service"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "AC Seater (2+2)",
+        "AC Seater (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater Push Back (2+3)",
+        "AC Seater (2+2)",
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "23:45",
+        "21:50",
+        "23:15",
+        "23:15",
+        "23:45",
+        "23:45",
+        "23:45",
+        "23:50",
+        "23:55",
+        "23:59",
+        "23:59"
+      ],
+      "Reaching_Time": [
+        "00:00",
+        "02:30",
+        "02:30",
+        "02:30",
+        "03:30",
+        "04:00",
+        "03:30",
+        "04:00",
+        "04:00",
+        "04:00",
+        "04:35"
+      ],
+      "Duration": [
+        "00h 15m",
+        "04h 40m",
+        "03h 15m",
+        "03h 15m",
+        "03h 45m",
+        "04h 15m",
+        "03h 45m",
+        "04h 10m",
+        "04h 05m",
+        "04h 01m",
+        "04h 36m"
+      ],
+      "Star_Rating": [
+        3.7,
+        3.2,
+        4.9,
+        4.9,
+        3.7,
+        3.2,
+        4.1,
+        3.2,
+        3.2,
+        3.2,
+        3.4
+      ],
+      "Seat_availability": [
+        28,
+        51,
+        29,
+        29,
+        12,
+        46,
+        16,
+        26,
+        49,
+        49,
+        37
+      ],
+      "Price": [
+        "126",
+        "335",
+        "320",
+        "320"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Digha to Durgapur (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "ISHIKA TRADERS"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "19:30"
+      ],
+      "Reaching_Time": [
+        "03:45"
+      ],
+      "Duration": [
+        "08h 15m"
+      ],
+      "Star_Rating": [
+        2.3
+      ],
+      "Seat_availability": [
+        51
+      ],
+      "Price": [
+        "600"
+      ],
+      "Reach_date": [
+        "14-Aug"
+      ]
+    },
+    "Government": {
+      "Bus_Name": [
+        "SBSTC-DIGHA - DURGAPUR - VIA - BISHNUPUR - 2/2 - 20:30 - 3808",
+        "SBSTC-DIGHA - ASANSOL - VIA - MEDINIPUR-DURGAPUR - 21:30 - 1553",
+        "SBSTC-DIGHA - DURGAPUR - VIA - BISHNUPUR - A/C - 22:00 - 3241",
+        "ISHIKA TRADERS"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)",
+        "Non AC Seater (2+3)",
+        "AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "20:30",
+        "21:30",
+        "22:00",
+        "19:30"
+      ],
+      "Reaching_Time": [
+        "04:40",
+        "06:00",
+        "06:30",
+        "03:45"
+      ],
+      "Duration": [
+        "08h 10m",
+        "08h 30m",
+        "08h 30m",
+        "08h 15m"
+      ],
+      "Star_Rating": [
+        4.4,
+        3.4,
+        3.3,
+        2.3
+      ],
+      "Seat_availability": [
+        28,
+        42,
+        37,
+        51
+      ],
+      "Price": [
+        "233",
+        "238",
+        "490",
+        "600"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    }
+  },
+  "Kolkata to Midnapore": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kolkata to Nandakumar (west bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745",
+        "Basu Travels",
+        "Basu Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)"
+      ],
+      "Departing_Time": [
+        "23:45",
+        "23:30",
+        "23:55"
+      ],
+      "Reaching_Time": [
+        "00:00",
+        "01:45",
+        "02:15"
+      ],
+      "Duration": [
+        "00h 15m",
+        "02h 15m",
+        "02h 20m"
+      ],
+      "Star_Rating": [
+        4.1,
+        2.8,
+        2.8
+      ],
+      "Seat_availability": [
+        29,
+        18,
+        21
+      ],
+      "Price": [
+        "85",
+        "269",
+        "469"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Mecheda (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)"
+      ],
+      "Departing_Time": [
+        "23:45"
+      ],
+      "Reaching_Time": [
+        "00:00"
+      ],
+      "Duration": [
+        "00h 15m"
+      ],
+      "Star_Rating": [
+        4.0
+      ],
+      "Seat_availability": [
+        26
+      ],
+      "Price": [
+        "68"
+      ],
+      "Reach_date": [
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Durgapur (West Bengal) to Digha": {
+    "Private": {
+      "Bus_Name": [
+        "New Eureka Travels"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "21:15"
+      ],
+      "Reaching_Time": [
+        "05:00"
+      ],
+      "Duration": [
+        "07h 45m"
+      ],
+      "Star_Rating": [
+        2.9
+      ],
+      "Seat_availability": [
+        45
+      ],
+      "Price": [
+        "600"
+      ],
+      "Reach_date": [
+        "14-Aug"
+      ]
+    },
+    "Government": {
+      "Bus_Name": [
+        "SBSTC-DURGAPUR - DIGHA - VIA - MIDNAPUR - 2/2 - 20:00 (D - 3807",
+        "SBSTC-DURGAPUR - DIGHA - VIA - BISHNUPUR - A/C - 22:00 - 3240",
+        "New Eureka Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "20:00",
+        "22:00",
+        "21:15"
+      ],
+      "Reaching_Time": [
+        "04:45",
+        "06:45",
+        "05:00"
+      ],
+      "Duration": [
+        "08h 45m",
+        "08h 45m",
+        "07h 45m"
+      ],
+      "Star_Rating": [
+        4.2,
+        3.6,
+        2.9
+      ],
+      "Seat_availability": [
+        17,
+        37,
+        45
+      ],
+      "Price": [
+        "238",
+        "490",
+        "600"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    }
+  },
+  "Kolkata to Kolaghat": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)"
+      ],
+      "Departing_Time": [
+        "22:30"
+      ],
+      "Reaching_Time": [
+        "00:00"
+      ],
+      "Duration": [
+        "01h 30m"
+      ],
+      "Star_Rating": [
+        4.4
+      ],
+      "Seat_availability": [
+        28
+      ],
+      "Price": [
+        "80"
+      ],
+      "Reach_date": [
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Jhargram to Kolkata": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Digha to Barasat (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "The Joy Ride",
+        "Satya Paribahan",
+        "Snemita Paribahan (Shinjini)",
+        "Aradhana Bus Service",
+        "Arunita Paribahan"
+      ],
+      "Bus_Type": [
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater (2+3)",
+        "AC Seater (2+3)",
+        "A/C Seater / Sleeper (2+2)",
+        "A/C Seater (2+3)"
+      ],
+      "Departing_Time": [
+        "21:15",
+        "23:00",
+        "23:35",
+        "23:00",
+        "23:35"
+      ],
+      "Reaching_Time": [
+        "03:35",
+        "05:10",
+        "05:00",
+        "04:30",
+        "05:00"
+      ],
+      "Duration": [
+        "06h 20m",
+        "06h 10m",
+        "05h 25m",
+        "05h 30m",
+        "05h 25m"
+      ],
+      "Star_Rating": [
+        3.6,
+        3.5,
+        3.2,
+        1.9,
+        2.9
+      ],
+      "Seat_availability": [
+        45,
+        12,
+        21,
+        39,
+        12
+      ],
+      "Price": [
+        "420",
+        "370"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Durgapur (West Bengal) to Siliguri": {
+    "Private": {
+      "Bus_Name": [
+        "Shyamoli Paribahan Pvt Ltd",
+        "Greenline",
+        "Express Line"
+      ],
+      "Bus_Type": [
+        "Scania Multi-Axle AC Semi Sleeper (2+2)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "19:30",
+        "19:45",
+        "19:40"
+      ],
+      "Reaching_Time": [
+        "06:25",
+        "06:30",
+        "06:45"
+      ],
+      "Duration": [
+        "10h 55m",
+        "10h 45m",
+        "11h 05m"
+      ],
+      "Star_Rating": [
+        4.4,
+        4.4,
+        4.4
+      ],
+      "Seat_availability": [
+        29,
+        21,
+        20
+      ],
+      "Price": [
+        "1000",
+        "1350",
+        "1349"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Midnapore to Barasat (West Bengal)": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kolkata to Heria": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745",
+        "Basu Travels",
+        "Basu Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)"
+      ],
+      "Departing_Time": [
+        "23:45",
+        "23:30",
+        "23:55"
+      ],
+      "Reaching_Time": [
+        "00:00",
+        "02:55",
+        "02:45"
+      ],
+      "Duration": [
+        "00h 15m",
+        "03h 25m",
+        "02h 50m"
+      ],
+      "Star_Rating": [
+        3.8,
+        2.8,
+        2.8
+      ],
+      "Seat_availability": [
+        33,
+        18,
+        21
+      ],
+      "Price": [
+        "107",
+        "269",
+        "469"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Chandipur (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)"
+      ],
+      "Departing_Time": [
+        "23:45"
+      ],
+      "Reaching_Time": [
+        "00:00"
+      ],
+      "Duration": [
+        "00h 15m"
+      ],
+      "Star_Rating": [
+        3.9
+      ],
+      "Seat_availability": [
+        26
+      ],
+      "Price": [
+        "96"
+      ],
+      "Reach_date": [
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Siliguri to Durgapur (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "Greenline",
+        "Express Line",
+        "Shyamoli Paribahan Pvt Ltd"
+      ],
+      "Bus_Type": [
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Scania Multi-Axle AC Semi Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "20:15",
+        "19:45",
+        "19:55"
+      ],
+      "Reaching_Time": [
+        "06:00",
+        "05:35",
+        "05:15"
+      ],
+      "Duration": [
+        "09h 45m",
+        "09h 50m",
+        "09h 20m"
+      ],
+      "Star_Rating": [
+        4.4,
+        4.6,
+        4.2
+      ],
+      "Seat_availability": [
+        24,
+        30,
+        22
+      ],
+      "Price": [
+        "1350",
+        "1349",
+        "1000"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Berhampore (West Bengal) to Durgapur (West Bengal)": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Berhampore (West Bengal) to Suri": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Barasat (West Bengal) to Digha": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Kolkata to Futishanko": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Barasat (West Bengal) to Midnapore": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Durgapur (West Bengal) to Berhampore (West Bengal)": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Durgapur (West Bengal) to Malda": {
+    "Private": {
+      "Bus_Name": [
+        "Shyamoli Paribahan Pvt Ltd",
+        "Express Line",
+        "Greenline"
+      ],
+      "Bus_Type": [
+        "Scania Multi-Axle AC Semi Sleeper (2+2)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "19:54",
+        "19:40",
+        "19:45"
+      ],
+      "Reaching_Time": [
+        "00:50",
+        "01:10",
+        "01:15"
+      ],
+      "Duration": [
+        "04h 56m",
+        "05h 30m",
+        "05h 30m"
+      ],
+      "Star_Rating": [
+        4.0,
+        4.8,
+        3.2
+      ],
+      "Seat_availability": [
+        25,
+        21,
+        22
+      ],
+      "Price": [
+        "700",
+        "999",
+        "1000"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Digha to Asansol (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-DIGHA - ASANSOL - VIA - MEDINIPUR-DURGAPUR - 21:30 - 1553"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)"
+      ],
+      "Departing_Time": [
+        "21:30"
+      ],
+      "Reaching_Time": [
+        "07:10"
+      ],
+      "Duration": [
+        "09h 40m"
+      ],
+      "Star_Rating": [
+        3.7
+      ],
+      "Seat_availability": [
+        45
+      ],
+      "Price": [
+        "267"
+      ],
+      "Reach_date": [
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Ramnagar (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745",
+        "Bengal Surface Transport",
+        "Basu Travels",
+        "Bengal Surface Transport",
+        "Basu Travels"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)"
+      ],
+      "Departing_Time": [
+        "23:45",
+        "23:20",
+        "23:30",
+        "23:59",
+        "23:55"
+      ],
+      "Reaching_Time": [
+        "00:00",
+        "04:00",
+        "03:45",
+        "04:45",
+        "04:40"
+      ],
+      "Duration": [
+        "00h 15m",
+        "04h 40m",
+        "04h 15m",
+        "04h 46m",
+        "04h 45m"
+      ],
+      "Star_Rating": [
+        4.2,
+        2.8,
+        2.8,
+        2.8,
+        2.8
+      ],
+      "Seat_availability": [
+        26,
+        21,
+        18,
+        20,
+        21
+      ],
+      "Price": [
+        "144",
+        "419",
+        "269",
+        "399",
+        "469"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Bajkul (West Bengal)": {
+    "Private": {
+      "Bus_Name": [
+        "SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745",
+        "Bengal Surface Transport",
+        "Basu Travels",
+        "Basu Travels",
+        "Bengal Surface Transport"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)",
+        "A/C Seater Push Back (2+3)"
+      ],
+      "Departing_Time": [
+        "23:45",
+        "23:20",
+        "23:30",
+        "23:55",
+        "23:59"
+      ],
+      "Reaching_Time": [
+        "00:00",
+        "02:15",
+        "02:30",
+        "02:20",
+        "02:30"
+      ],
+      "Duration": [
+        "00h 15m",
+        "02h 55m",
+        "03h 00m",
+        "02h 25m",
+        "02h 31m"
+      ],
+      "Star_Rating": [
+        4.1,
+        2.8,
+        2.8,
+        2.8,
+        2.8
+      ],
+      "Seat_availability": [
+        26,
+        21,
+        18,
+        21,
+        20
+      ],
+      "Price": [
+        "103",
+        "419",
+        "269",
+        "469",
+        "399"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Kirnahar (West Bengal)": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Durgapur (West Bengal) to Bankura": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Siliguri to Malda": {
+    "Private": {
+      "Bus_Name": [
+        "Shyamoli Paribahan Pvt Ltd",
+        "Lokenath Bus Service",
+        "Shyamoli Paribahan Pvt Ltd",
+        "Express Line",
+        "Greenline",
+        "Shyamoli Paribahan Pvt Ltd",
+        "Lokenath Bus Service",
+        "Easy Ride",
+        "Lokenath Bus Service",
+        "Aradhana Travels",
+        "Aradhana Travels"
+      ],
+      "Bus_Type": [
+        "Scania Multi-Axle AC Semi Sleeper (2+2)",
+        "Volvo Multi-Axle A/C Seater/Sleeper (2+1)",
+        "Volvo 9600 A/C Seater/Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo Multi-Axle A/C seater/sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo 9600 Multi-Axle A/C Sleeper (2+1)",
+        "Volvo Multi Axle B11R AC Seater\\Sleeper (2+1)",
+        "Volvo A/C B11R Multi Axle Semi Sleeper (2+2)",
+        "NON A/C Seater / Sleeper (2+2)"
+      ],
+      "Departing_Time": [
+        "19:55",
+        "19:45",
+        "19:45",
+        "19:45",
+        "20:15",
+        "19:45",
+        "19:45",
+        "20:15",
+        "20:30",
+        "21:30",
+        "22:00"
+      ],
+      "Reaching_Time": [
+        "23:20",
+        "23:55",
+        "00:40",
+        "23:45",
+        "23:59",
+        "00:10",
+        "00:30",
+        "23:55",
+        "01:20",
+        "03:00",
+        "06:00"
+      ],
+      "Duration": [
+        "03h 25m",
+        "04h 10m",
+        "04h 55m",
+        "04h 00m",
+        "03h 44m",
+        "04h 25m",
+        "04h 45m",
+        "03h 40m",
+        "04h 50m",
+        "05h 30m",
+        "08h 00m"
+      ],
+      "Star_Rating": [
+        3.8,
+        4.7,
+        4.7,
+        4.6,
+        5.0,
+        3.9,
+        2.2,
+        4.7,
+        5.0,
+        3.8,
+        1.3
+      ],
+      "Seat_availability": [
+        38,
+        17,
+        27,
+        41,
+        32,
+        33
+      ],
+      "Price": [
+        "600",
+        "649",
+        "600",
+        "1100",
+        "600",
+        "950",
+        "1500",
+        "649"
+      ],
+      "Reach_date": [
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug",
+        "14-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Kolkata to Suri": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Purulia to Durgapur (West Bengal)": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  }
+}

@@ -1,0 +1,3925 @@
+{
+  "Tezpur to Guwahati": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 157959",
+        "Orient Transline",
+        "WARISPIYA TRAVELS",
+        "Mahi Travels(Under ASTC)",
+        "Mahalaxmi Travels",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "Chartered Bus - ASTC",
+        "Pranjit Travels (Under ASTC)",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "SHIVAM TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Brindaban Travels",
+        "PANKAJ TRAVELS",
+        "BARBIE TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Himalayan Travels"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "AC Seater (2+2)",
+        "A/C Seater (2+2)",
+        "Tata A/C Seater (2+2)",
+        "Non AC Seater (2+1)",
+        "A/C Seater (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "NON A/C Seater (2+1)",
+        "Volvo AC Seater Pushback 2+2",
+        "Volvo AC Seater Pushback 2+2",
+        "Bharat Benz A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "Non AC Seater (2+2)",
+        "A/C Seater (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "NON A/C Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "14:00",
+        "07:35",
+        "07:45",
+        "08:00",
+        "09:55",
+        "10:10",
+        "11:15",
+        "11:30",
+        "11:30",
+        "13:00",
+        "14:30",
+        "15:00",
+        "22:15",
+        "09:15",
+        "13:00",
+        "13:10",
+        "21:30",
+        "23:40"
+      ],
+      "Reaching_Time": [
+        "18:30",
+        "11:00",
+        "12:00",
+        "11:30",
+        "13:45",
+        "15:00",
+        "15:30",
+        "16:15",
+        "16:45",
+        "17:00",
+        "18:30",
+        "19:15",
+        "03:45",
+        "13:15",
+        "17:00",
+        "17:50",
+        "03:30",
+        "04:00"
+      ],
+      "Duration": [
+        "04h 30m",
+        "03h 25m",
+        "04h 15m",
+        "03h 30m",
+        "03h 50m",
+        "04h 50m",
+        "04h 15m",
+        "04h 45m",
+        "05h 15m",
+        "04h 00m",
+        "04h 00m",
+        "04h 15m",
+        "05h 30m",
+        "04h 00m",
+        "04h 00m",
+        "04h 40m",
+        "06h 00m",
+        "04h 20m"
+      ],
+      "Star_Rating": [
+        4.3,
+        3.7,
+        4.2,
+        4.6,
+        3.6,
+        3.1,
+        3.8,
+        4.5,
+        4.3,
+        4.6,
+        4.0,
+        4.2,
+        3.7,
+        2.7,
+        2.6,
+        2.9,
+        1.8
+      ],
+      "Seat_availability": [
+        12,
+        18,
+        35
+      ],
+      "Price": [
+        "298",
+        "342.86",
+        "360",
+        "300",
+        "450",
+        "450",
+        "356.23",
+        "450",
+        "389.13",
+        "432.06",
+        "550",
+        "315",
+        "350",
+        "400"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Guwahati to Tezpur": {
+    "Private": {
+      "Bus_Name": [
+        "SHIVAM TRAVELS",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "NEELKANTH TRAVELS",
+        "MAA Anada (UNDER ASTC)",
+        "Mahi Travels(Under ASTC)",
+        "Orient Transline",
+        "Orient Transline",
+        "Mahalaxmi Travels",
+        "WARISPIYA TRAVELS",
+        "WARISPIYA TRAVELS",
+        "WARISPIYA TRAVELS",
+        "Yatra Travels",
+        "Yatra Travels",
+        "Pranjit Travels (Under ASTC)",
+        "KIRAN TRAVELS",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "NETWORK TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Upasana Travels (Under ASTC)",
+        "Upasana Travels (Under ASTC)",
+        "Brindaban Travels",
+        "DESTINY TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Himalayan Travels",
+        "KIRAN TRAVELS",
+        "Pranjit Travels (Under ASTC)"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "Volvo AC Seater Pushback 2+2",
+        "Volvo AC Seater Pushback 2+2",
+        "Volvo AC Seater Pushback 2+2",
+        "A/C Seater Push Back (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Tata A/C Seater (2+2)",
+        "AC Seater (2+2)",
+        "AC Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "NON A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater Push Back (2+2)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "Non AC Seater (2+2)",
+        "A/C Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "NON A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "Bharat Benz A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "07:15",
+        "07:15",
+        "07:30",
+        "07:30",
+        "08:30",
+        "09:05",
+        "09:30",
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:35",
+        "15:00",
+        "15:35",
+        "16:15",
+        "20:00",
+        "20:30",
+        "21:45",
+        "07:10",
+        "07:45",
+        "08:15",
+        "09:30",
+        "09:30",
+        "11:00",
+        "11:10",
+        "17:15",
+        "18:45",
+        "20:00",
+        "20:30",
+        "20:40",
+        "21:30"
+      ],
+      "Reaching_Time": [
+        "11:10",
+        "11:00",
+        "11:30",
+        "10:30",
+        "12:30",
+        "14:30",
+        "14:45",
+        "15:00",
+        "15:30",
+        "17:30",
+        "18:30",
+        "18:40",
+        "19:15",
+        "19:40",
+        "00:00",
+        "01:00",
+        "02:00",
+        "11:30",
+        "13:10",
+        "13:00",
+        "16:15",
+        "13:00",
+        "15:00",
+        "15:30",
+        "21:15",
+        "23:30",
+        "01:15",
+        "02:30",
+        "00:30",
+        "02:30"
+      ],
+      "Duration": [
+        "03h 55m",
+        "03h 45m",
+        "04h 00m",
+        "03h 00m",
+        "04h 00m",
+        "05h 25m",
+        "05h 15m",
+        "05h 00m",
+        "04h 00m",
+        "04h 30m",
+        "03h 55m",
+        "03h 40m",
+        "03h 40m",
+        "03h 25m",
+        "04h 00m",
+        "04h 30m",
+        "04h 15m",
+        "04h 20m",
+        "05h 25m",
+        "04h 45m",
+        "06h 45m",
+        "03h 30m",
+        "04h 00m",
+        "04h 20m",
+        "04h 00m",
+        "28h 45m",
+        "05h 15m",
+        "06h 00m",
+        "03h 50m",
+        "05h 00m"
+      ],
+      "Star_Rating": [
+        4.4,
+        4.6,
+        4.7,
+        4.5,
+        4.6,
+        4.5,
+        3.3,
+        4.2,
+        3.8,
+        4.1,
+        3.9,
+        4.5,
+        4.1,
+        4.1,
+        3.6,
+        3.3,
+        3.8,
+        2.7,
+        2.8,
+        2.5,
+        1.8,
+        2.3,
+        1.0,
+        1.6,
+        1.8,
+        1.8,
+        2.5,
+        3.1,
+        4.1
+      ],
+      "Seat_availability": [
+        30,
+        34,
+        31,
+        32,
+        31,
+        35,
+        11,
+        19
+      ],
+      "Price": [
+        "356.23",
+        "389.13",
+        "389.13",
+        "432.06",
+        "300",
+        "328.5",
+        "380.95",
+        "380.95",
+        "300",
+        "360",
+        "360",
+        "360",
+        "450",
+        "450",
+        "450",
+        "250",
+        "350",
+        "325",
+        "280",
+        "315",
+        "600"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 173419",
+        "Assam State Transport Corporation (ASTC) - 143955",
+        "Assam State Transport Corporation (ASTC) - 175310",
+        "Assam State Transport Corporation (ASTC) - 154910",
+        "Assam State Transport Corporation (ASTC) - 139720",
+        "Assam State Transport Corporation (ASTC) - 174839",
+        "SHIVAM TRAVELS",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "NEELKANTH TRAVELS",
+        "MAA Anada (UNDER ASTC)",
+        "Mahi Travels(Under ASTC)",
+        "Orient Transline",
+        "Orient Transline",
+        "Mahalaxmi Travels",
+        "WARISPIYA TRAVELS",
+        "WARISPIYA TRAVELS",
+        "WARISPIYA TRAVELS",
+        "Yatra Travels",
+        "Yatra Travels",
+        "Pranjit Travels (Under ASTC)",
+        "KIRAN TRAVELS",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "NETWORK TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Upasana Travels (Under ASTC)",
+        "Upasana Travels (Under ASTC)",
+        "Brindaban Travels",
+        "DESTINY TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Himalayan Travels",
+        "KIRAN TRAVELS",
+        "Pranjit Travels (Under ASTC)"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "Volvo AC Seater 2+2",
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "Volvo AC Seater Pushback 2+2",
+        "Volvo AC Seater Pushback 2+2",
+        "Volvo AC Seater Pushback 2+2",
+        "A/C Seater Push Back (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Tata A/C Seater (2+2)",
+        "AC Seater (2+2)",
+        "AC Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "NON A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater Push Back (2+2)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "Non AC Seater (2+2)",
+        "A/C Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "NON A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "Bharat Benz A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "07:15",
+        "07:30",
+        "08:30",
+        "10:30",
+        "13:45",
+        "15:15",
+        "07:15",
+        "07:15",
+        "07:30",
+        "07:30",
+        "08:30",
+        "09:05",
+        "09:30",
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:35",
+        "15:00",
+        "15:35",
+        "16:15",
+        "20:00",
+        "20:30",
+        "21:45",
+        "07:10",
+        "07:45",
+        "08:15",
+        "09:30",
+        "09:30",
+        "11:00",
+        "11:10",
+        "17:15",
+        "18:45",
+        "20:00",
+        "20:30",
+        "20:40",
+        "21:30"
+      ],
+      "Reaching_Time": [
+        "10:50",
+        "11:00",
+        "12:45",
+        "15:00",
+        "18:00",
+        "19:15",
+        "11:10",
+        "11:00",
+        "11:30",
+        "10:30",
+        "12:30",
+        "14:30",
+        "14:45",
+        "15:00",
+        "15:30",
+        "17:30",
+        "18:30",
+        "18:40",
+        "19:15",
+        "19:40",
+        "00:00",
+        "01:00",
+        "02:00",
+        "11:30",
+        "13:10",
+        "13:00",
+        "16:15",
+        "13:00",
+        "15:00",
+        "15:30",
+        "21:15",
+        "23:30",
+        "01:15",
+        "02:30",
+        "00:30",
+        "02:30"
+      ],
+      "Duration": [
+        "03h 35m",
+        "03h 30m",
+        "04h 15m",
+        "04h 30m",
+        "04h 15m",
+        "04h 00m",
+        "03h 55m",
+        "03h 45m",
+        "04h 00m",
+        "03h 00m",
+        "04h 00m",
+        "05h 25m",
+        "05h 15m",
+        "05h 00m",
+        "04h 00m",
+        "04h 30m",
+        "03h 55m",
+        "03h 40m",
+        "03h 40m",
+        "03h 25m",
+        "04h 00m",
+        "04h 30m",
+        "04h 15m",
+        "04h 20m",
+        "05h 25m",
+        "04h 45m",
+        "06h 45m",
+        "03h 30m",
+        "04h 00m",
+        "04h 20m",
+        "04h 00m",
+        "28h 45m",
+        "05h 15m",
+        "06h 00m",
+        "03h 50m",
+        "05h 00m"
+      ],
+      "Star_Rating": [
+        3.5,
+        4.3,
+        4.4,
+        3.7,
+        3.6,
+        3.9,
+        4.4,
+        4.6,
+        4.7,
+        4.5,
+        4.6,
+        4.5,
+        3.3,
+        4.2,
+        3.8,
+        4.1,
+        3.9,
+        4.5,
+        4.1,
+        4.1,
+        3.6,
+        3.3,
+        3.8,
+        2.7,
+        2.8,
+        2.5,
+        1.8,
+        2.3,
+        1.0,
+        1.6,
+        1.8,
+        1.8,
+        2.5,
+        3.1,
+        4.1
+      ],
+      "Seat_availability": [
+        30,
+        34,
+        31,
+        32,
+        31,
+        35,
+        11,
+        19
+      ],
+      "Price": [
+        "298",
+        "298",
+        "298",
+        "298",
+        "298",
+        "298",
+        "356.23",
+        "389.13",
+        "389.13",
+        "432.06",
+        "300",
+        "328.5",
+        "380.95",
+        "380.95",
+        "300",
+        "360",
+        "360",
+        "360",
+        "450",
+        "450",
+        "450",
+        "250",
+        "350",
+        "325",
+        "280",
+        "315",
+        "600"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    }
+  },
+  "Nagaon (Assam) to Guwahati": {
+    "Private": {
+      "Bus_Name": [
+        "Orient Transline",
+        "Orient Transline",
+        "Mahi Travels(Under ASTC)",
+        "Anindita Travels",
+        "Mahalaxmi Travels",
+        "Pranjit Travels (Under ASTC)",
+        "NETWORK TRAVELS",
+        "Pranjit Travels (Under ASTC)",
+        "Baikuntha Transport Service",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "SHIVAM TRAVELS",
+        "Kareng Travels",
+        "TRINAYAN TRANSPORT (Under ASTC)",
+        "Kareng Travels",
+        "Kareng Travels",
+        "BARBIE TRAVELS"
+      ],
+      "Bus_Type": [
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "Tata A/C Seater (2+2)",
+        "Non AC Seater (2+1)",
+        "NON A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "Bharat Benz A/C Seater (2+1)",
+        "Volvo AC Seater Pushback 2+2",
+        "Volvo AC Seater Pushback 2+2",
+        "Bharat Benz A/C Seater (2+1)",
+        "Non AC Seater (2+2)",
+        "A/C Seater (2+1)",
+        "Bharat Benz A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "A/C Seater Push Back (2+2)"
+      ],
+      "Departing_Time": [
+        "07:20",
+        "08:50",
+        "09:10",
+        "09:15",
+        "11:10",
+        "11:55",
+        "12:00",
+        "13:15",
+        "14:00",
+        "14:30",
+        "16:00",
+        "16:45",
+        "07:15",
+        "11:45",
+        "13:20",
+        "14:15",
+        "14:50"
+      ],
+      "Reaching_Time": [
+        "09:00",
+        "11:00",
+        "11:30",
+        "11:30",
+        "13:45",
+        "15:00",
+        "14:30",
+        "15:30",
+        "17:00",
+        "17:00",
+        "18:30",
+        "19:15",
+        "09:30",
+        "14:30",
+        "16:00",
+        "16:30",
+        "17:50"
+      ],
+      "Duration": [
+        "01h 40m",
+        "02h 10m",
+        "02h 20m",
+        "02h 15m",
+        "02h 35m",
+        "03h 05m",
+        "02h 30m",
+        "02h 15m",
+        "03h 00m",
+        "02h 30m",
+        "02h 30m",
+        "02h 30m",
+        "02h 15m",
+        "02h 45m",
+        "02h 40m",
+        "02h 15m",
+        "03h 00m"
+      ],
+      "Star_Rating": [
+        4.7,
+        3.2,
+        4.8,
+        4.7,
+        4.5,
+        3.2,
+        3.7,
+        3.2,
+        3.3,
+        4.5,
+        5.0,
+        4.4,
+        2.5,
+        2.8,
+        2.5,
+        2.5
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "333.33",
+        "333.33",
+        "450",
+        "250",
+        "400",
+        "350",
+        "400",
+        "377.79",
+        "324.04",
+        "400",
+        "300",
+        "300",
+        "300"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Guwahati to Nagaon (Assam)": {
+    "Private": {
+      "Bus_Name": [
+        "SHIVAM TRAVELS",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "JOY HANUMAN",
+        "Pranjit Travels (Under ASTC)",
+        "Chartered Bus - ASTC",
+        "NEELKANTH TRAVELS",
+        "MAA Anada (UNDER ASTC)",
+        "Mahi Travels(Under ASTC)",
+        "Orient Transline",
+        "Kareng Travels",
+        "Anindita Travels",
+        "Orient Transline",
+        "Mahalaxmi Travels",
+        "TRINAYAN TRANSPORT (Under ASTC)",
+        "Baikuntha Transport Service",
+        "DESTINY TRAVELS"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+1)",
+        "Volvo AC Seater Pushback 2+2",
+        "Volvo AC Seater Pushback 2+2",
+        "Non AC Seater (2+2)",
+        "A/C Seater (2+1)",
+        "Volvo AC Seater Pushback 2+2",
+        "A/C Seater Push Back (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "Non AC Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Tata A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "07:15",
+        "07:30",
+        "07:30",
+        "07:40",
+        "08:15",
+        "08:30",
+        "09:05",
+        "09:30",
+        "10:00",
+        "11:30",
+        "11:45",
+        "12:30",
+        "13:00",
+        "14:35",
+        "08:00",
+        "08:00",
+        "18:45"
+      ],
+      "Reaching_Time": [
+        "09:30",
+        "09:30",
+        "09:15",
+        "10:30",
+        "11:00",
+        "10:45",
+        "12:00",
+        "13:00",
+        "13:30",
+        "14:25",
+        "14:45",
+        "15:45",
+        "15:45",
+        "16:40",
+        "11:30",
+        "11:30",
+        "21:50"
+      ],
+      "Duration": [
+        "02h 15m",
+        "02h 00m",
+        "01h 45m",
+        "02h 50m",
+        "02h 45m",
+        "02h 15m",
+        "02h 55m",
+        "03h 30m",
+        "03h 30m",
+        "02h 55m",
+        "03h 00m",
+        "03h 15m",
+        "02h 45m",
+        "02h 05m",
+        "03h 30m",
+        "03h 30m",
+        "27h 05m"
+      ],
+      "Star_Rating": [
+        4.3,
+        4.6,
+        4.7,
+        4.2,
+        3.1,
+        4.0,
+        4.5,
+        3.4,
+        3.3,
+        3.6,
+        4.6,
+        4.1,
+        4.2,
+        3.9,
+        2.9,
+        2.9,
+        1.8
+      ],
+      "Seat_availability": [
+        23
+      ],
+      "Price": [
+        "270.01",
+        "270.01",
+        "200",
+        "400",
+        "324.04",
+        "250",
+        "247.5",
+        "285.71",
+        "400",
+        "333.33",
+        "240",
+        "450"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 154910",
+        "Assam State Transport Corporation (ASTC) - 146146",
+        "Assam State Transport Corporation (ASTC) - 146079",
+        "Assam State Transport Corporation (ASTC) - 174839",
+        "SHIVAM TRAVELS",
+        "Chartered Bus - ASTC",
+        "Chartered Bus - ASTC",
+        "JOY HANUMAN",
+        "Pranjit Travels (Under ASTC)",
+        "Chartered Bus - ASTC",
+        "NEELKANTH TRAVELS",
+        "MAA Anada (UNDER ASTC)",
+        "Mahi Travels(Under ASTC)",
+        "Orient Transline",
+        "Kareng Travels",
+        "Anindita Travels",
+        "Orient Transline",
+        "Mahalaxmi Travels",
+        "TRINAYAN TRANSPORT (Under ASTC)",
+        "Baikuntha Transport Service",
+        "DESTINY TRAVELS"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+1)",
+        "Volvo AC Seater Pushback 2+2",
+        "Volvo AC Seater Pushback 2+2",
+        "Non AC Seater (2+2)",
+        "A/C Seater (2+1)",
+        "Volvo AC Seater Pushback 2+2",
+        "A/C Seater Push Back (2+2)",
+        "AC Seater (2+2)",
+        "A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "Non AC Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Tata A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "10:30",
+        "13:00",
+        "15:00",
+        "15:15",
+        "07:15",
+        "07:30",
+        "07:30",
+        "07:40",
+        "08:15",
+        "08:30",
+        "09:05",
+        "09:30",
+        "10:00",
+        "11:30",
+        "11:45",
+        "12:30",
+        "13:00",
+        "14:35",
+        "08:00",
+        "08:00",
+        "18:45"
+      ],
+      "Reaching_Time": [
+        "13:00",
+        "16:00",
+        "18:00",
+        "17:40",
+        "09:30",
+        "09:30",
+        "09:15",
+        "10:30",
+        "11:00",
+        "10:45",
+        "12:00",
+        "13:00",
+        "13:30",
+        "14:25",
+        "14:45",
+        "15:45",
+        "15:45",
+        "16:40",
+        "11:30",
+        "11:30",
+        "21:50"
+      ],
+      "Duration": [
+        "02h 30m",
+        "03h 00m",
+        "03h 00m",
+        "02h 25m",
+        "02h 15m",
+        "02h 00m",
+        "01h 45m",
+        "02h 50m",
+        "02h 45m",
+        "02h 15m",
+        "02h 55m",
+        "03h 30m",
+        "03h 30m",
+        "02h 55m",
+        "03h 00m",
+        "03h 15m",
+        "02h 45m",
+        "02h 05m",
+        "03h 30m",
+        "03h 30m",
+        "27h 05m"
+      ],
+      "Star_Rating": [
+        3.9,
+        4.0,
+        3.6,
+        3.9,
+        4.3,
+        4.6,
+        4.7,
+        4.2,
+        3.1,
+        4.0,
+        4.5,
+        3.4,
+        3.3,
+        3.6,
+        4.6,
+        4.1,
+        4.2,
+        3.9,
+        2.9,
+        2.9,
+        1.8
+      ],
+      "Seat_availability": [
+        23
+      ],
+      "Price": [
+        "191",
+        "191",
+        "191",
+        "191",
+        "270.01",
+        "270.01",
+        "200",
+        "400",
+        "324.04",
+        "250",
+        "247.5",
+        "285.71",
+        "400",
+        "333.33",
+        "240",
+        "450"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    }
+  },
+  "Goalpara to Guwahati": {
+    "Private": {
+      "Bus_Name": [
+        "Balaji Tours And Travels",
+        "Balaji Tours And Travels",
+        "Balaji Tours And Travels",
+        "Balaji Tours And Travels"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater (2+2)",
+        "NON A/C Seater Push Back (2+2)",
+        "NON A/C Seater (2+2)",
+        "NON A/C Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "10:45",
+        "11:15",
+        "12:00",
+        "12:15"
+      ],
+      "Reaching_Time": [
+        "14:45",
+        "15:35",
+        "16:20",
+        "16:30"
+      ],
+      "Duration": [
+        "04h 00m",
+        "04h 20m",
+        "04h 20m",
+        "04h 15m"
+      ],
+      "Star_Rating": [
+        2.3,
+        2.3,
+        2.3,
+        2.3
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "162",
+        "162",
+        "162",
+        "162"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Jorhat to North Lakhimpur": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Dhubri to Guwahati": {
+    "Private": {
+      "Bus_Name": [
+        "Yatra",
+        "Yatra",
+        "MAA MONOSHA TRAVELS",
+        "Rizwan Travels",
+        "Rizwan Travels",
+        "Yatra"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "Non AC Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "Non AC Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "20:15",
+        "11:15",
+        "20:00",
+        "12:15",
+        "12:30",
+        "13:15"
+      ],
+      "Reaching_Time": [
+        "03:30",
+        "18:45",
+        "03:30",
+        "19:15",
+        "20:00",
+        "20:30"
+      ],
+      "Duration": [
+        "07h 15m",
+        "07h 30m",
+        "07h 30m",
+        "07h 00m",
+        "07h 30m",
+        "07h 15m"
+      ],
+      "Star_Rating": [
+        2.6,
+        1.7,
+        2.4
+      ],
+      "Seat_availability": [
+        40,
+        38
+      ],
+      "Price": [
+        "350",
+        "300",
+        "350",
+        "300",
+        "300",
+        "300"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Guwahati to Dhubri": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 150574",
+        "MAA MONOSHA TRAVELS",
+        "Yatra",
+        "Yatra"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "Non AC Seater (2+2)",
+        "Non AC Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "12:00",
+        "10:00",
+        "08:15",
+        "07:30"
+      ],
+      "Reaching_Time": [
+        "19:00",
+        "17:30",
+        "15:30",
+        "12:45"
+      ],
+      "Duration": [
+        "07h 00m",
+        "07h 30m",
+        "07h 15m",
+        "05h 15m"
+      ],
+      "Star_Rating": [
+        3.9,
+        2.3,
+        1.1
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "410",
+        "350",
+        "350",
+        "300"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "North Lakhimpur to Sibsagar": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 173044"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "13:00"
+      ],
+      "Reaching_Time": [
+        "16:30"
+      ],
+      "Duration": [
+        "03h 30m"
+      ],
+      "Star_Rating": [
+        3.0
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "220"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "North Lakhimpur to Jorhat": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Dhekiajuli to Guwahati": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Jorhat to Dibrugarh": {
+    "Private": {
+      "Bus_Name": [
+        "Basudev Transline",
+        "Aroti Travels (Under ASTC)",
+        "NEELAKANTHA (RIYA)",
+        "NETWORK TRAVELS",
+        "Christina Travels",
+        "Aniruddha Travels",
+        "RAYAN TRAVELS",
+        "MADHURIKA TRAVELS",
+        "Chartered Bus - ASTC",
+        "SHIVAM TRAVELS",
+        "Bashudev Transline (Under ASTC)"
+      ],
+      "Bus_Type": [
+        "A/C Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "Tempo Traveler NON A/C",
+        "A/C Seater Push Back (2+2)",
+        "NON A/C Seater (2+2)",
+        "AC Seater (2+2)",
+        "Bharat Benz A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Volvo AC Seater Pushback 2+2",
+        "Bharat Benz A/C Seater (2+1)",
+        "A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "10:00",
+        "12:30",
+        "10:00",
+        "12:15",
+        "12:30",
+        "11:45",
+        "12:30",
+        "12:45",
+        "13:30",
+        "13:30",
+        "14:10"
+      ],
+      "Reaching_Time": [
+        "14:10",
+        "16:20",
+        "10:00",
+        "16:00",
+        "16:30",
+        "16:15",
+        "16:15",
+        "17:00",
+        "17:15",
+        "17:00",
+        "18:00"
+      ],
+      "Duration": [
+        "04h 10m",
+        "03h 50m",
+        "--",
+        "03h 45m",
+        "04h 00m",
+        "04h 30m",
+        "03h 45m",
+        "04h 15m",
+        "03h 45m",
+        "03h 30m",
+        "03h 50m"
+      ],
+      "Star_Rating": [
+        3.5,
+        3.8,
+        1.9,
+        2.8,
+        3.5,
+        3.6,
+        3.8,
+        4.5,
+        3.9,
+        4.2
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "250",
+        "250",
+        "600",
+        "735.16",
+        "550"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Jorhat to Dhemaji": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Sibsagar to North Lakhimpur": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 173043"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "07:30"
+      ],
+      "Reaching_Time": [
+        "11:30"
+      ],
+      "Duration": [
+        "04h 00m"
+      ],
+      "Star_Rating": [
+        3.3
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "220"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Dhemaji to Jorhat": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Tezpur to Dibrugarh": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 96880",
+        "Aniruddha Travels",
+        "Aniruddha Travels",
+        "Puja Transport",
+        "SANJEEBANI TRAVELS",
+        "Puja Transport",
+        "J.S. Travels",
+        "Maa Laxmi",
+        "Neha Travels",
+        "PIHU TRANSPORT"
+      ],
+      "Bus_Type": [
+        "A/C Seater (2+1)",
+        "AC Seater (2+2)",
+        "NON A/C Seater/ Sleeper (2+1)",
+        "Non AC Seater (2+2)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "NON AC Seater / Sleeper 2+1",
+        "Non AC Seater (2+1)",
+        "NON A/C Seater Push Back (2+1)",
+        "NON A/C Sleeper (2+1)",
+        "Bharat Benz NON A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "08:00",
+        "07:50",
+        "19:30",
+        "20:00",
+        "21:30",
+        "20:00",
+        "21:00",
+        "22:15",
+        "22:40",
+        "19:45"
+      ],
+      "Reaching_Time": [
+        "16:00",
+        "16:15",
+        "04:00",
+        "05:00",
+        "04:00",
+        "04:30",
+        "04:00",
+        "05:30",
+        "07:00",
+        "04:00"
+      ],
+      "Duration": [
+        "08h 00m",
+        "08h 25m",
+        "08h 30m",
+        "09h 00m",
+        "06h 30m",
+        "08h 30m",
+        "07h 00m",
+        "07h 15m",
+        "08h 20m",
+        "08h 15m"
+      ],
+      "Star_Rating": [
+        3.4,
+        3.7,
+        3.5,
+        2.4,
+        3.0,
+        3.6,
+        2.3,
+        2.5,
+        2.1,
+        2.0
+      ],
+      "Seat_availability": [
+        17,
+        25,
+        48,
+        16,
+        32,
+        30,
+        35,
+        45
+      ],
+      "Price": [
+        "463",
+        "550",
+        "550",
+        "550",
+        "550",
+        "550",
+        "650",
+        "470"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Haflong to Guwahati": {
+    "Private": {
+      "Bus_Name": [
+        "Deep Travels",
+        "NETWORK TRAVELS"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+1)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "17:45",
+        "18:00"
+      ],
+      "Reaching_Time": [
+        "04:30",
+        "04:00"
+      ],
+      "Duration": [
+        "10h 45m",
+        "10h 00m"
+      ],
+      "Star_Rating": [
+        4.1,
+        4.5
+      ],
+      "Seat_availability": [
+        29,
+        22
+      ],
+      "Price": [
+        "600"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "North Lakhimpur to Dibrugarh": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 147552",
+        "BARBIE TRAVELS",
+        "Maa Jagadamba",
+        "Maa Jagadamba",
+        "BARBIE TRAVELS"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "NON A/C Hi-Tech Push Back (2+2)",
+        "NON A/C Seater (2+3)",
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater Push Back (2+2)"
+      ],
+      "Departing_Time": [
+        "07:30",
+        "07:55",
+        "09:20",
+        "09:40",
+        "10:20"
+      ],
+      "Reaching_Time": [
+        "10:45",
+        "12:30",
+        "14:00",
+        "14:25",
+        "13:40"
+      ],
+      "Duration": [
+        "03h 15m",
+        "04h 35m",
+        "04h 40m",
+        "04h 45m",
+        "03h 20m"
+      ],
+      "Star_Rating": [
+        4.2,
+        2.2,
+        2.2
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "235.62",
+        "240",
+        "240",
+        "260",
+        "280"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Jorhat to Tinsukia": {
+    "Private": {
+      "Bus_Name": [
+        "Aniruddha Travels",
+        "Aroti Travels (Under ASTC)",
+        "Christina Travels",
+        "Chartered Bus - ASTC",
+        "MADHURIKA TRAVELS"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "NON A/C Seater (2+2)",
+        "Volvo AC Seater Pushback 2+2",
+        "A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "11:45",
+        "12:30",
+        "12:30",
+        "13:30",
+        "12:45"
+      ],
+      "Reaching_Time": [
+        "17:30",
+        "17:50",
+        "18:00",
+        "18:30",
+        "18:00"
+      ],
+      "Duration": [
+        "05h 45m",
+        "05h 20m",
+        "05h 30m",
+        "05h 00m",
+        "05h 15m"
+      ],
+      "Star_Rating": [
+        4.3,
+        3.9,
+        3.5,
+        4.7,
+        2.2
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "350",
+        "735.16"
+      ],
+      "Reach_date": []
+    },
+    "Government": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 166131",
+        "Assam State Transport Corporation (ASTC) - 139495",
+        "Aniruddha Travels",
+        "Aroti Travels (Under ASTC)",
+        "Christina Travels",
+        "Chartered Bus - ASTC",
+        "MADHURIKA TRAVELS"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "NON A/C Seater Push Back (2+1)",
+        "AC Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "NON A/C Seater (2+2)",
+        "Volvo AC Seater Pushback 2+2",
+        "A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "07:20",
+        "09:15",
+        "11:45",
+        "12:30",
+        "12:30",
+        "13:30",
+        "12:45"
+      ],
+      "Reaching_Time": [
+        "13:30",
+        "15:00",
+        "17:30",
+        "17:50",
+        "18:00",
+        "18:30",
+        "18:00"
+      ],
+      "Duration": [
+        "06h 10m",
+        "05h 45m",
+        "05h 45m",
+        "05h 20m",
+        "05h 30m",
+        "05h 00m",
+        "05h 15m"
+      ],
+      "Star_Rating": [
+        4.0,
+        4.5,
+        4.3,
+        3.9,
+        3.5,
+        4.7,
+        2.2
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "281",
+        "247",
+        "350",
+        "735.16"
+      ],
+      "Reach_date": []
+    }
+  },
+  "Dibrugarh to Tezpur": {
+    "Private": {
+      "Bus_Name": [
+        "Aniruddha Travels",
+        "Puja Transport",
+        "SANJEEBANI TRAVELS",
+        "PIHU TRANSPORT",
+        "J.S. Travels",
+        "MOON TRAVELS",
+        "Maa Laxmi",
+        "Neha Travels"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "NON AC Seater / Sleeper 2+1",
+        "Non A/C Seater / Sleeper (2+1)",
+        "Bharat Benz NON A/C Seater / Sleeper (2+1)",
+        "Non AC Seater (2+1)",
+        "AC Seater (2+2)",
+        "NON A/C Seater Push Back (2+1)",
+        "NON A/C Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "07:30",
+        "20:00",
+        "18:45",
+        "19:50",
+        "19:00",
+        "09:10",
+        "17:30",
+        "17:15"
+      ],
+      "Reaching_Time": [
+        "15:35",
+        "05:00",
+        "03:00",
+        "04:30",
+        "04:00",
+        "17:00",
+        "01:00",
+        "05:00"
+      ],
+      "Duration": [
+        "08h 05m",
+        "09h 00m",
+        "08h 15m",
+        "08h 40m",
+        "09h 00m",
+        "07h 50m",
+        "07h 30m",
+        "11h 45m"
+      ],
+      "Star_Rating": [
+        4.5,
+        3.6,
+        3.0,
+        2.7,
+        3.2,
+        2.8,
+        2.3
+      ],
+      "Seat_availability": [
+        15,
+        39,
+        42,
+        32,
+        30,
+        30
+      ],
+      "Price": [
+        "550",
+        "470",
+        "500",
+        "550",
+        "650"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Guwahati to Biswanath Charali": {
+    "Private": {
+      "Bus_Name": [
+        "Chartered Bus - ASTC",
+        "KIRAN TRAVELS",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Mahi Travels(Under ASTC)",
+        "Orient Transline",
+        "Orient Transline",
+        "Mahalaxmi Travels",
+        "PARIJAT TRAVELS(UNDER ASTC)",
+        "Yatra Travels",
+        "Yatra Travels",
+        "Pranjit Travels (Under ASTC)",
+        "Maharathi Travels(UNDER ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "MAA Anada (UNDER ASTC)",
+        "DESTINY TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "NORTH EAST TRAVELS(UNDER ASTC)"
+      ],
+      "Bus_Type": [
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Tata A/C Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "Bharat Benz A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "AC Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "07:30",
+        "07:30",
+        "07:45",
+        "08:15",
+        "09:30",
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:35",
+        "19:35",
+        "20:00",
+        "20:30",
+        "20:30",
+        "20:55",
+        "21:30",
+        "21:45",
+        "09:30",
+        "18:45",
+        "20:00",
+        "20:15"
+      ],
+      "Reaching_Time": [
+        "12:00",
+        "12:30",
+        "15:00",
+        "15:15",
+        "15:00",
+        "16:30",
+        "16:40",
+        "19:10",
+        "20:00",
+        "02:00",
+        "01:00",
+        "02:15",
+        "03:00",
+        "03:30",
+        "03:45",
+        "03:00",
+        "16:15",
+        "00:24",
+        "02:00",
+        "02:30"
+      ],
+      "Duration": [
+        "04h 30m",
+        "05h 00m",
+        "07h 15m",
+        "07h 00m",
+        "05h 30m",
+        "06h 30m",
+        "05h 10m",
+        "06h 10m",
+        "05h 25m",
+        "06h 25m",
+        "05h 00m",
+        "05h 45m",
+        "06h 30m",
+        "06h 35m",
+        "06h 15m",
+        "05h 15m",
+        "06h 45m",
+        "29h 39m",
+        "06h 00m",
+        "06h 15m"
+      ],
+      "Star_Rating": [
+        4.6,
+        3.0,
+        3.7,
+        4.8,
+        3.5,
+        4.2,
+        4.1,
+        3.5,
+        4.3,
+        4.3,
+        3.3,
+        3.6,
+        4.0,
+        3.4,
+        3.7,
+        3.2,
+        1.9,
+        1.8,
+        1.9,
+        2.5
+      ],
+      "Seat_availability": [
+        28,
+        30,
+        34,
+        31,
+        22,
+        19,
+        32,
+        23,
+        31,
+        25
+      ],
+      "Price": [
+        "551.37",
+        "500",
+        "550",
+        "400",
+        "476.19",
+        "476.19",
+        "410",
+        "500",
+        "600",
+        "500",
+        "384.3",
+        "500"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "16-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 173419",
+        "Assam State Transport Corporation (ASTC) - 175310",
+        "Chartered Bus - ASTC",
+        "KIRAN TRAVELS",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Mahi Travels(Under ASTC)",
+        "Orient Transline",
+        "Orient Transline",
+        "Mahalaxmi Travels",
+        "PARIJAT TRAVELS(UNDER ASTC)",
+        "Yatra Travels",
+        "Yatra Travels",
+        "Pranjit Travels (Under ASTC)",
+        "Maharathi Travels(UNDER ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "MAA Anada (UNDER ASTC)",
+        "DESTINY TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "NORTH EAST TRAVELS(UNDER ASTC)"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+2)",
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "A/C Seater (2+2)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "Tata A/C Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "Bharat Benz A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "AC Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "07:45",
+        "08:30",
+        "07:30",
+        "07:30",
+        "07:45",
+        "08:15",
+        "09:30",
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:35",
+        "19:35",
+        "20:00",
+        "20:30",
+        "20:30",
+        "20:55",
+        "21:30",
+        "21:45",
+        "09:30",
+        "18:45",
+        "20:00",
+        "20:15"
+      ],
+      "Reaching_Time": [
+        "11:50",
+        "13:45",
+        "12:00",
+        "12:30",
+        "15:00",
+        "15:15",
+        "15:00",
+        "16:30",
+        "16:40",
+        "19:10",
+        "20:00",
+        "02:00",
+        "01:00",
+        "02:15",
+        "03:00",
+        "03:30",
+        "03:45",
+        "03:00",
+        "16:15",
+        "00:24",
+        "02:00",
+        "02:30"
+      ],
+      "Duration": [
+        "04h 05m",
+        "05h 15m",
+        "04h 30m",
+        "05h 00m",
+        "07h 15m",
+        "07h 00m",
+        "05h 30m",
+        "06h 30m",
+        "05h 10m",
+        "06h 10m",
+        "05h 25m",
+        "06h 25m",
+        "05h 00m",
+        "05h 45m",
+        "06h 30m",
+        "06h 35m",
+        "06h 15m",
+        "05h 15m",
+        "06h 45m",
+        "29h 39m",
+        "06h 00m",
+        "06h 15m"
+      ],
+      "Star_Rating": [
+        3.6,
+        3.8,
+        4.6,
+        3.0,
+        3.7,
+        4.8,
+        3.5,
+        4.2,
+        4.1,
+        3.5,
+        4.3,
+        4.3,
+        3.3,
+        3.6,
+        4.0,
+        3.4,
+        3.7,
+        3.2,
+        1.9,
+        1.8,
+        1.9,
+        2.5
+      ],
+      "Seat_availability": [
+        28,
+        30,
+        34,
+        31,
+        22,
+        19,
+        32,
+        23,
+        31,
+        25
+      ],
+      "Price": [
+        "412",
+        "412",
+        "551.37",
+        "500",
+        "550",
+        "400",
+        "476.19",
+        "476.19",
+        "410",
+        "500",
+        "600",
+        "500",
+        "384.3",
+        "500"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "16-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    }
+  },
+  "Guwahati to Haflong": {
+    "Private": {
+      "Bus_Name": [
+        "NETWORK TRAVELS",
+        "JOY HANUMAN",
+        "Deep Travels"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater (2+1)",
+        "Non AC Seater (2+2)",
+        "Non AC Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "18:30",
+        "07:40",
+        "19:30"
+      ],
+      "Reaching_Time": [
+        "07:00",
+        "16:40",
+        "06:30"
+      ],
+      "Duration": [
+        "12h 30m",
+        "09h 00m",
+        "11h 00m"
+      ],
+      "Star_Rating": [
+        4.6,
+        4.5,
+        3.6
+      ],
+      "Seat_availability": [
+        17,
+        32
+      ],
+      "Price": [
+        "600"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Dibrugarh to North Lakhimpur": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 147556",
+        "BARBIE TRAVELS",
+        "BARBIE TRAVELS",
+        "BARBIE TRAVELS",
+        "Maa Jagadamba",
+        "Maa Jagadamba",
+        "Air Bus Travels",
+        "Air Bus Travels"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "NON A/C Hi-Tech Push Back (2+2)",
+        "NON A/C Hi-Tech Push Back (2+2)",
+        "NON A/C Hi-Tech Push Back (2+2)",
+        "A/C Seater Push Back (2+2)",
+        "NON A/C Seater (2+3)",
+        "NON AC Seater / Sleeper 2+1",
+        "NON AC Seater / Sleeper 2+1"
+      ],
+      "Departing_Time": [
+        "12:30",
+        "11:10",
+        "13:30",
+        "15:30",
+        "16:15",
+        "16:20",
+        "19:40",
+        "21:15"
+      ],
+      "Reaching_Time": [
+        "15:45",
+        "15:30",
+        "18:30",
+        "19:30",
+        "19:30",
+        "19:30",
+        "01:00",
+        "02:00"
+      ],
+      "Duration": [
+        "03h 15m",
+        "04h 20m",
+        "05h 00m",
+        "04h 00m",
+        "03h 15m",
+        "03h 10m",
+        "05h 20m",
+        "04h 45m"
+      ],
+      "Star_Rating": [
+        4.3,
+        2.6,
+        2.6,
+        2.4,
+        2.5
+      ],
+      "Seat_availability": [
+        37,
+        34
+      ],
+      "Price": [
+        "235.62",
+        "240",
+        "240",
+        "240",
+        "260",
+        "250",
+        "400",
+        "400"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Nagaon (Assam) to Haflong": {
+    "Private": {
+      "Bus_Name": [
+        "JOY HANUMAN"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "10:30"
+      ],
+      "Reaching_Time": [
+        "16:40"
+      ],
+      "Duration": [
+        "06h 10m"
+      ],
+      "Star_Rating": [
+        4.0
+      ],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Tezpur to Moran": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 96880",
+        "Aniruddha Travels",
+        "SANJEEBANI TRAVELS",
+        "PIHU TRANSPORT",
+        "Maa Laxmi",
+        "Neha Travels"
+      ],
+      "Bus_Type": [
+        "A/C Seater (2+1)",
+        "AC Seater (2+2)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "Bharat Benz NON A/C Seater / Sleeper (2+1)",
+        "NON A/C Seater Push Back (2+1)",
+        "NON A/C Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "08:00",
+        "07:50",
+        "21:30",
+        "19:45",
+        "22:15",
+        "22:40"
+      ],
+      "Reaching_Time": [
+        "14:45",
+        "15:00",
+        "03:00",
+        "03:00",
+        "05:00",
+        "06:00"
+      ],
+      "Duration": [
+        "06h 45m",
+        "07h 10m",
+        "05h 30m",
+        "07h 15m",
+        "06h 45m",
+        "07h 20m"
+      ],
+      "Star_Rating": [
+        3.9,
+        3.3,
+        2.8,
+        1.8,
+        1.9
+      ],
+      "Seat_availability": [
+        48,
+        45,
+        30,
+        35
+      ],
+      "Price": [
+        "405",
+        "520",
+        "500",
+        "650"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Dibrugarh to Jorhat": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 166134",
+        "RAYAN TRAVELS",
+        "SHIVAM TRAVELS",
+        "Chartered Bus - ASTC",
+        "Basudev Transline",
+        "Trishul Transport Service",
+        "Baikuntha Transport Service",
+        "Purple Wings Coaches",
+        "Aniruddha Travels",
+        "NEELAKANTHA (RIYA)",
+        "Maa Laxmi"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "Bharat Benz A/C Seater (2+1)",
+        "Bharat Benz A/C Seater (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater (2+2)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "AC Seater (2+2)",
+        "Tempo Traveler NON A/C",
+        "NON A/C Seater Push Back (2+1)"
+      ],
+      "Departing_Time": [
+        "10:30",
+        "07:30",
+        "07:30",
+        "08:00",
+        "15:15",
+        "19:15",
+        "19:30",
+        "19:55",
+        "07:30",
+        "15:45",
+        "17:30"
+      ],
+      "Reaching_Time": [
+        "15:30",
+        "10:45",
+        "11:15",
+        "11:00",
+        "19:40",
+        "22:55",
+        "23:15",
+        "00:15",
+        "11:10",
+        "20:00",
+        "21:30"
+      ],
+      "Duration": [
+        "05h 00m",
+        "03h 15m",
+        "03h 45m",
+        "03h 00m",
+        "04h 25m",
+        "03h 40m",
+        "03h 45m",
+        "04h 20m",
+        "03h 40m",
+        "04h 15m",
+        "04h 00m"
+      ],
+      "Star_Rating": [
+        3.8,
+        4.3,
+        4.5,
+        4.6,
+        3.6,
+        3.4,
+        3.3,
+        3.6,
+        2.7,
+        2.8
+      ],
+      "Seat_availability": [
+        42
+      ],
+      "Price": [
+        "207",
+        "600",
+        "432.24",
+        "250",
+        "500"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Guwahati to Silchar": {
+    "Private": {
+      "Bus_Name": [
+        "RAYAN TRAVELS",
+        "JAYSIKA",
+        "SEEMA TRAVELS",
+        "Bholanath Travels",
+        "AR Travels"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON AC Seater / Sleeper 2+1",
+        "NON AC Seater / Sleeper 2+1",
+        "Non AC Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "18:30",
+        "18:30",
+        "19:00",
+        "19:30",
+        "19:30"
+      ],
+      "Reaching_Time": [
+        "05:15",
+        "06:00",
+        "05:00",
+        "05:00",
+        "05:40"
+      ],
+      "Duration": [
+        "10h 45m",
+        "11h 30m",
+        "10h 00m",
+        "09h 30m",
+        "10h 10m"
+      ],
+      "Star_Rating": [
+        2.8,
+        2.2,
+        1.5,
+        1.0
+      ],
+      "Seat_availability": [
+        32,
+        32,
+        46,
+        34,
+        40
+      ],
+      "Price": [
+        "650",
+        "650",
+        "650",
+        "650",
+        "650"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Bihpuria to Dibrugarh": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Haflong to Nagaon (Assam)": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "North Lakhimpur to Tezpur": {
+    "Private": {
+      "Bus_Name": [
+        "Chartered Bus - ASTC",
+        "PANKAJ TRAVELS",
+        "Sparrow Travels (Under ASTC)",
+        "Ruma Travels (Under ASTC)",
+        "Debarath",
+        "KRISHNA CHARAN TRAVELS",
+        "Mayur Travels (Under ASTC)",
+        "DESTINY TRAVELS"
+      ],
+      "Bus_Type": [
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater (2+1)",
+        "Non AC Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "A/C Seater Hi-Tech Push Back (2+2)",
+        "A/C Seater Push Back (2+2)",
+        "Non AC Seater (2+2)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "07:45",
+        "08:30",
+        "12:30",
+        "08:30",
+        "10:00",
+        "12:00",
+        "12:15",
+        "20:20"
+      ],
+      "Reaching_Time": [
+        "11:30",
+        "13:00",
+        "18:45",
+        "15:30",
+        "15:45",
+        "16:30",
+        "18:00",
+        "23:45"
+      ],
+      "Duration": [
+        "03h 45m",
+        "04h 30m",
+        "06h 15m",
+        "07h 00m",
+        "05h 45m",
+        "04h 30m",
+        "05h 45m",
+        "27h 25m"
+      ],
+      "Star_Rating": [
+        4.5,
+        3.6,
+        3.0,
+        1.0,
+        1.7,
+        2.5,
+        1.8
+      ],
+      "Seat_availability": [
+        25
+      ],
+      "Price": [
+        "541.16",
+        "350",
+        "350",
+        "460",
+        "450",
+        "350"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Biswanath Charali to Guwahati": {
+    "Private": {
+      "Bus_Name": [
+        "Mahalaxmi Travels",
+        "Pranjit Travels (Under ASTC)",
+        "MAHARATHI TRANSPORT",
+        "Pranjit Travels (Under ASTC)",
+        "Yatra Travels",
+        "Pranjit Travels (Under ASTC)",
+        "Chartered Bus - ASTC",
+        "PANKAJ TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "BARBIE TRAVELS",
+        "BLUE HILL TRAVELS INDIA LIMITED"
+      ],
+      "Bus_Type": [
+        "Tata A/C Seater (2+2)",
+        "Non AC Seater (2+1)",
+        "NON A/C Semi Sleeper (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "NON A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "NON A/C Seater Semi Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "08:10",
+        "09:00",
+        "09:45",
+        "10:30",
+        "10:45",
+        "10:45",
+        "11:00",
+        "12:00",
+        "21:30",
+        "23:15",
+        "23:45",
+        "11:30",
+        "20:00"
+      ],
+      "Reaching_Time": [
+        "13:45",
+        "15:00",
+        "16:00",
+        "15:30",
+        "17:00",
+        "16:45",
+        "16:15",
+        "17:00",
+        "03:45",
+        "05:30",
+        "06:30",
+        "17:50",
+        "03:30"
+      ],
+      "Duration": [
+        "05h 35m",
+        "06h 00m",
+        "06h 15m",
+        "05h 00m",
+        "06h 15m",
+        "06h 00m",
+        "05h 15m",
+        "05h 00m",
+        "06h 15m",
+        "06h 15m",
+        "06h 45m",
+        "06h 20m",
+        "07h 30m"
+      ],
+      "Star_Rating": [
+        3.4,
+        3.4,
+        3.6,
+        3.6,
+        4.4,
+        3.5,
+        4.7,
+        4.8,
+        4.1,
+        3.6,
+        3.2,
+        1.6
+      ],
+      "Seat_availability": [
+        10,
+        29,
+        33,
+        18
+      ],
+      "Price": [
+        "410",
+        "500",
+        "500",
+        "550",
+        "500",
+        "551.37",
+        "550",
+        "500",
+        "500",
+        "450",
+        "450"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Biswanath Charali to Dibrugarh": {
+    "Private": {
+      "Bus_Name": [
+        "Air Bus Travels"
+      ],
+      "Bus_Type": [
+        "NON AC Seater / Sleeper 2+1"
+      ],
+      "Departing_Time": [
+        "18:30"
+      ],
+      "Reaching_Time": [
+        "02:00"
+      ],
+      "Duration": [
+        "07h 30m"
+      ],
+      "Star_Rating": [
+        3.2
+      ],
+      "Seat_availability": [
+        44
+      ],
+      "Price": [
+        "500"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Tinsukia to Jorhat": {
+    "Private": {
+      "Bus_Name": [
+        "NETWORK TRAVELS",
+        "Purple Wings Coaches",
+        "NETWORK TRAVELS",
+        "Maa Laxmi"
+      ],
+      "Bus_Type": [
+        "Non A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "NON A/C Seater Push Back (2+1)",
+        "NON A/C Seater Push Back (2+1)"
+      ],
+      "Departing_Time": [
+        "17:00",
+        "18:30",
+        "19:00",
+        "16:00"
+      ],
+      "Reaching_Time": [
+        "23:00",
+        "00:15",
+        "00:30",
+        "21:30"
+      ],
+      "Duration": [
+        "06h 00m",
+        "05h 45m",
+        "05h 30m",
+        "05h 30m"
+      ],
+      "Star_Rating": [
+        4.3,
+        3.7,
+        4.6,
+        2.1
+      ],
+      "Seat_availability": [
+        40,
+        33
+      ],
+      "Price": [
+        "400"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 139496",
+        "Assam State Transport Corporation (ASTC) - 166134",
+        "NETWORK TRAVELS",
+        "Purple Wings Coaches",
+        "NETWORK TRAVELS",
+        "Maa Laxmi"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater Push Back (2+1)",
+        "Bharat Benz A/C Seater (2+2)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "NON A/C Seater Push Back (2+1)",
+        "NON A/C Seater Push Back (2+1)"
+      ],
+      "Departing_Time": [
+        "08:25",
+        "09:00",
+        "17:00",
+        "18:30",
+        "19:00",
+        "16:00"
+      ],
+      "Reaching_Time": [
+        "13:30",
+        "15:30",
+        "23:00",
+        "00:15",
+        "00:30",
+        "21:30"
+      ],
+      "Duration": [
+        "05h 05m",
+        "06h 30m",
+        "06h 00m",
+        "05h 45m",
+        "05h 30m",
+        "05h 30m"
+      ],
+      "Star_Rating": [
+        3.3,
+        4.0,
+        4.3,
+        3.7,
+        4.6,
+        2.1
+      ],
+      "Seat_availability": [
+        40,
+        33
+      ],
+      "Price": [
+        "245",
+        "281",
+        "400"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    }
+  },
+  "Moran to Tezpur": {
+    "Private": {
+      "Bus_Name": [
+        "Aniruddha Travels",
+        "PIHU TRANSPORT",
+        "SANJEEBANI TRAVELS",
+        "Maa Laxmi",
+        "MOON TRAVELS",
+        "Neha Travels"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "Bharat Benz NON A/C Seater / Sleeper (2+1)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "NON A/C Seater Push Back (2+1)",
+        "AC Seater (2+2)",
+        "NON A/C Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "08:25",
+        "20:45",
+        "20:15",
+        "18:30",
+        "10:30",
+        "18:30"
+      ],
+      "Reaching_Time": [
+        "15:35",
+        "04:30",
+        "03:00",
+        "01:00",
+        "17:00",
+        "05:00"
+      ],
+      "Duration": [
+        "07h 10m",
+        "07h 45m",
+        "06h 45m",
+        "06h 30m",
+        "06h 30m",
+        "10h 30m"
+      ],
+      "Star_Rating": [
+        4.4,
+        2.6,
+        2.8,
+        2.5,
+        2.3
+      ],
+      "Seat_availability": [
+        43,
+        50,
+        36,
+        35
+      ],
+      "Price": [
+        "520",
+        "500",
+        "650"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Jorhat to Gogamukh": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Dibrugarh to Biswanath Charali": {
+    "Private": {
+      "Bus_Name": [
+        "Air Bus Travels"
+      ],
+      "Bus_Type": [
+        "NON AC Seater / Sleeper 2+1"
+      ],
+      "Departing_Time": [
+        "19:40"
+      ],
+      "Reaching_Time": [
+        "05:00"
+      ],
+      "Duration": [
+        "09h 20m"
+      ],
+      "Star_Rating": [
+        3.7
+      ],
+      "Seat_availability": [
+        37
+      ],
+      "Price": [
+        "500"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Gohpur to Guwahati": {
+    "Private": {
+      "Bus_Name": [
+        "Yatra Travels",
+        "Pranjit Travels (Under ASTC)",
+        "KIRAN TRAVELS",
+        "Pranjit Travels (Under ASTC)",
+        "Yatra Travels",
+        "Chartered Bus - ASTC",
+        "BARBIE TRAVELS",
+        "Deep Travels",
+        "Pranjit Travels (Under ASTC)",
+        "PARIJAT TRAVELS(UNDER ASTC)",
+        "Yatra Travels",
+        "Drishti Travels",
+        "Drishti Travels",
+        "GURUNANAK TRAVELS",
+        "Island Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "MAHARATHI TRANSPORT",
+        "NORTH EAST TRAVELS(UNDER ASTC)",
+        "BLUE HILL TRAVELS INDIA LIMITED",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "PANKAJ TRAVELS",
+        "DESTINY TRAVELS"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "A/C Seater (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "NON AC Seater/ Sleeper (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater Push Back (2+2)",
+        "NON AC Seater / Sleeper 2+1",
+        "Bharat Benz A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "Non AC Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater Semi Sleeper (2+1)",
+        "NON A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "09:00",
+        "08:00",
+        "22:50",
+        "23:05",
+        "22:20",
+        "09:30",
+        "10:20",
+        "22:20",
+        "22:45",
+        "23:11",
+        "22:35",
+        "21:00",
+        "21:00",
+        "21:00",
+        "22:30",
+        "22:20",
+        "09:20",
+        "22:15",
+        "20:00",
+        "20:15",
+        "21:45",
+        "09:15",
+        "10:40",
+        "11:15"
+      ],
+      "Reaching_Time": [
+        "17:00",
+        "15:00",
+        "07:30",
+        "06:00",
+        "06:00",
+        "16:15",
+        "17:50",
+        "05:00",
+        "06:15",
+        "06:30",
+        "06:15",
+        "05:30",
+        "05:00",
+        "05:00",
+        "06:00",
+        "06:30",
+        "16:45",
+        "05:00",
+        "06:00",
+        "03:45",
+        "05:30",
+        "15:30",
+        "17:00",
+        "03:45"
+      ],
+      "Duration": [
+        "08h 00m",
+        "07h 00m",
+        "08h 40m",
+        "06h 55m",
+        "07h 40m",
+        "06h 45m",
+        "07h 30m",
+        "06h 40m",
+        "07h 30m",
+        "07h 19m",
+        "07h 40m",
+        "08h 30m",
+        "08h 00m",
+        "08h 00m",
+        "07h 30m",
+        "08h 10m",
+        "07h 25m",
+        "06h 45m",
+        "10h 00m",
+        "07h 30m",
+        "07h 45m",
+        "06h 15m",
+        "06h 20m",
+        "16h 30m"
+      ],
+      "Star_Rating": [
+        4.4,
+        4.4,
+        4.3,
+        4.6,
+        4.4,
+        4.2,
+        3.9,
+        3.1,
+        3.2,
+        3.6,
+        3.0,
+        3.2,
+        3.1,
+        3.2,
+        2.9,
+        3.6,
+        3.2,
+        3.0,
+        3.3,
+        3.9,
+        3.9,
+        3.6,
+        1.8
+      ],
+      "Seat_availability": [
+        20,
+        37,
+        32,
+        32,
+        22,
+        24,
+        32,
+        32,
+        32,
+        32,
+        35,
+        33,
+        26,
+        26,
+        31,
+        26,
+        25
+      ],
+      "Price": [
+        "570",
+        "620",
+        "551.37",
+        "500",
+        "499",
+        "500",
+        "570",
+        "570",
+        "500",
+        "550",
+        "570",
+        "630"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Tinsukia to Tezpur": {
+    "Private": {
+      "Bus_Name": [
+        "Puja Transport",
+        "J.S. Travels",
+        "SANJEEBANI TRAVELS",
+        "MOON TRAVELS",
+        "Maa Laxmi",
+        "Neha Travels"
+      ],
+      "Bus_Type": [
+        "NON AC Seater / Sleeper 2+1",
+        "Non AC Seater (2+1)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "AC Seater (2+2)",
+        "NON A/C Seater Push Back (2+1)",
+        "NON A/C Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "18:30",
+        "17:30",
+        "16:40",
+        "07:45",
+        "16:00",
+        "15:30"
+      ],
+      "Reaching_Time": [
+        "05:00",
+        "04:00",
+        "03:00",
+        "17:00",
+        "01:00",
+        "05:00"
+      ],
+      "Duration": [
+        "10h 30m",
+        "10h 30m",
+        "10h 20m",
+        "09h 15m",
+        "09h 00m",
+        "13h 30m"
+      ],
+      "Star_Rating": [
+        3.7,
+        3.1,
+        1.7,
+        2.8,
+        1.9
+      ],
+      "Seat_availability": [
+        13,
+        32,
+        38,
+        30,
+        35
+      ],
+      "Price": [
+        "600",
+        "550",
+        "550",
+        "650"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "North Lakhimpur to Golaghat": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Golaghat to North Lakhimpur": {
+    "Private": {
+      "Bus_Name": [],
+      "Bus_Type": [],
+      "Departing_Time": [],
+      "Reaching_Time": [],
+      "Duration": [],
+      "Star_Rating": [],
+      "Seat_availability": [],
+      "Price": [],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Silchar to Guwahati": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 139638",
+        "Jagannath Travels and Tours Pvt. Ltd.",
+        "Bholanath Travels",
+        "RAYAN TRAVELS",
+        "NETWORK TRAVELS",
+        "JAYSIKA"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater Push Back (2+1)",
+        "NON A/C Seater Push Back (2+1)",
+        "NON AC Seater / Sleeper 2+1",
+        "NON A/C Seater (2+1)",
+        "NON A/C Seater Push Back (2+1)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "16:45",
+        "18:30",
+        "18:35",
+        "18:30",
+        "17:30",
+        "16:30"
+      ],
+      "Reaching_Time": [
+        "05:45",
+        "05:05",
+        "06:00",
+        "06:00",
+        "05:30",
+        "04:30"
+      ],
+      "Duration": [
+        "13h 00m",
+        "10h 35m",
+        "11h 25m",
+        "11h 30m",
+        "12h 00m",
+        "12h 00m"
+      ],
+      "Star_Rating": [
+        2.3,
+        2.0,
+        2.8,
+        2.9,
+        2.5
+      ],
+      "Seat_availability": [
+        26,
+        28,
+        46,
+        32,
+        32,
+        35
+      ],
+      "Price": [
+        "547",
+        "650",
+        "600",
+        "650",
+        "550",
+        "650"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Bokakhat to Dibrugarh": {
+    "Private": {
+      "Bus_Name": [
+        "MOON TRAVELS",
+        "Aniruddha Travels",
+        "SHIVAM TRAVELS",
+        "Chartered Bus - ASTC",
+        "Bashudev Transline (Under ASTC)",
+        "Christina Travels",
+        "Aniruddha Travels",
+        "PIHU TRANSPORT"
+      ],
+      "Bus_Type": [
+        "AC Seater (2+2)",
+        "AC Seater (2+2)",
+        "Bharat Benz A/C Seater (2+1)",
+        "Volvo AC Seater Pushback 2+2",
+        "A/C Seater (2+1)",
+        "NON A/C Seater (2+2)",
+        "NON A/C Seater/ Sleeper (2+1)",
+        "Bharat Benz NON A/C Seater / Sleeper (2+1)"
+      ],
+      "Departing_Time": [
+        "09:45",
+        "10:15",
+        "12:15",
+        "12:30",
+        "12:35",
+        "11:00",
+        "23:15",
+        "23:30"
+      ],
+      "Reaching_Time": [
+        "15:20",
+        "16:15",
+        "17:00",
+        "17:15",
+        "18:00",
+        "16:30",
+        "04:00",
+        "04:00"
+      ],
+      "Duration": [
+        "05h 35m",
+        "06h 00m",
+        "04h 45m",
+        "04h 45m",
+        "05h 25m",
+        "05h 30m",
+        "04h 45m",
+        "04h 30m"
+      ],
+      "Star_Rating": [
+        3.1,
+        4.2,
+        4.1,
+        4.8,
+        3.0,
+        2.9,
+        2.9,
+        2.7
+      ],
+      "Seat_availability": [
+        18,
+        46
+      ],
+      "Price": [
+        "735.16",
+        "550",
+        "550",
+        "500"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "North Lakhimpur to Moran": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 173044"
+      ],
+      "Bus_Type": [
+        "Non AC Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "13:00"
+      ],
+      "Reaching_Time": [
+        "15:30"
+      ],
+      "Duration": [
+        "02h 30m"
+      ],
+      "Star_Rating": [
+        4.6
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "170"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Tezpur to North Lakhimpur": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 173419",
+        "PANKAJ TRAVELS",
+        "Karisma (Aziba)",
+        "Chartered Bus - ASTC",
+        "KIRAN TRAVELS",
+        "Pranjit Travels (Under ASTC)",
+        "Pranjit Travels (Under ASTC)",
+        "Ruma Travels (Under ASTC)",
+        "Mahadev K.P.",
+        "Mahadev K.P.",
+        "DESTINY TRAVELS"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)",
+        "AC Seater (2+2)",
+        "NON A/C Seater (2+1)",
+        "A/C Seater Push Back (2+2)",
+        "A/C Seater (2+1)",
+        "A/C Seater (2+1)",
+        "NON A/C Seater (2+1)",
+        "Non AC Seater (2+2)",
+        "Tata A/C Seater (2+2)",
+        "Tata A/C Seater (2+2)",
+        "NON A/C Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "10:50",
+        "10:00",
+        "10:40",
+        "11:00",
+        "11:30",
+        "13:00",
+        "13:10",
+        "09:00",
+        "11:00",
+        "11:30",
+        "23:30"
+      ],
+      "Reaching_Time": [
+        "15:00",
+        "15:35",
+        "15:00",
+        "15:00",
+        "17:05",
+        "18:45",
+        "18:30",
+        "14:40",
+        "18:15",
+        "18:30",
+        "03:45"
+      ],
+      "Duration": [
+        "04h 10m",
+        "05h 35m",
+        "04h 20m",
+        "04h 00m",
+        "05h 35m",
+        "05h 45m",
+        "05h 20m",
+        "05h 40m",
+        "07h 15m",
+        "07h 00m",
+        "04h 15m"
+      ],
+      "Star_Rating": [
+        2.9,
+        3.6,
+        3.9,
+        4.5,
+        3.3,
+        3.7,
+        4.2,
+        1.0,
+        2.0,
+        2.0,
+        1.8
+      ],
+      "Seat_availability": [
+        23
+      ],
+      "Price": [
+        "334",
+        "400",
+        "541.16",
+        "550",
+        "500",
+        "350",
+        "460",
+        "460"
+      ],
+      "Reach_date": [
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Tezpur to Tinsukia": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 96880",
+        "Aniruddha Travels",
+        "Puja Transport",
+        "SANJEEBANI TRAVELS",
+        "Aniruddha Travels",
+        "PIHU TRANSPORT",
+        "Puja Transport",
+        "J.S. Travels",
+        "Maa Laxmi",
+        "Neha Travels"
+      ],
+      "Bus_Type": [
+        "A/C Seater (2+1)",
+        "AC Seater (2+2)",
+        "Non AC Seater (2+2)",
+        "Non A/C Seater / Sleeper (2+1)",
+        "NON A/C Seater/ Sleeper (2+1)",
+        "Bharat Benz NON A/C Seater / Sleeper (2+1)",
+        "NON AC Seater / Sleeper 2+1",
+        "Non AC Seater (2+1)",
+        "NON A/C Seater Push Back (2+1)",
+        "Non AC Seater (2+1)"
+      ],
+      "Departing_Time": [
+        "08:00",
+        "07:50",
+        "20:00",
+        "21:30",
+        "19:30",
+        "19:45",
+        "20:00",
+        "21:00",
+        "22:15",
+        "22:40"
+      ],
+      "Reaching_Time": [
+        "17:45",
+        "17:30",
+        "06:00",
+        "05:10",
+        "04:45",
+        "05:00",
+        "05:30",
+        "06:30",
+        "08:00",
+        "08:00"
+      ],
+      "Duration": [
+        "09h 45m",
+        "09h 40m",
+        "10h 00m",
+        "07h 40m",
+        "09h 15m",
+        "09h 15m",
+        "09h 30m",
+        "09h 30m",
+        "09h 45m",
+        "09h 20m"
+      ],
+      "Star_Rating": [
+        3.3,
+        3.4,
+        3.3,
+        2.3,
+        3.0,
+        3.0,
+        2.3,
+        2.1,
+        2.4,
+        1.4
+      ],
+      "Seat_availability": [
+        25,
+        48,
+        17,
+        45,
+        17,
+        32,
+        30,
+        35
+      ],
+      "Price": [
+        "540",
+        "550",
+        "550",
+        "500",
+        "600",
+        "550",
+        "550",
+        "650"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  },
+  "Dibrugarh to Bihpuria": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 147556"
+      ],
+      "Bus_Type": [
+        "Bharat Benz A/C Seater (2+2)"
+      ],
+      "Departing_Time": [
+        "12:30"
+      ],
+      "Reaching_Time": [
+        "16:45"
+      ],
+      "Duration": [
+        "04h 15m"
+      ],
+      "Star_Rating": [
+        4.4
+      ],
+      "Seat_availability": [],
+      "Price": [
+        "292.6"
+      ],
+      "Reach_date": []
+    },
+    "Government": {}
+  },
+  "Dibrugarh to Bokakhat": {
+    "Private": {
+      "Bus_Name": [
+        "Assam State Transport Corporation (ASTC) - 139496",
+        "SHIVAM TRAVELS",
+        "Baikuntha Transport Service",
+        "Purple Wings Coaches",
+        "Shree Ram Travels (Under ASTC)",
+        "Shree Ram Travels",
+        "Maa Laxmi"
+      ],
+      "Bus_Type": [
+        "NON A/C Seater Push Back (2+1)",
+        "Bharat Benz A/C Seater (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "A/C Seater / Sleeper (2+1)",
+        "Bharat Benz A/C Seater (2+1)",
+        "Bharat Benz A/C Seater /Sleeper (2+1)",
+        "NON A/C Seater Push Back (2+1)"
+      ],
+      "Departing_Time": [
+        "09:30",
+        "07:45",
+        "19:30",
+        "19:55",
+        "20:00",
+        "20:45",
+        "17:30"
+      ],
+      "Reaching_Time": [
+        "16:30",
+        "12:30",
+        "01:00",
+        "01:15",
+        "01:00",
+        "01:40",
+        "22:15"
+      ],
+      "Duration": [
+        "07h 00m",
+        "04h 45m",
+        "05h 30m",
+        "05h 20m",
+        "05h 00m",
+        "04h 55m",
+        "28h 45m"
+      ],
+      "Star_Rating": [
+        3.5,
+        4.7,
+        3.9,
+        3.6,
+        4.8,
+        4.8,
+        2.8
+      ],
+      "Seat_availability": [
+        36,
+        42,
+        27,
+        36,
+        31
+      ],
+      "Price": [
+        "273",
+        "500"
+      ],
+      "Reach_date": [
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug",
+        "15-Aug"
+      ]
+    },
+    "Government": {}
+  }
+}
